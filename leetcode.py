@@ -229,9 +229,11 @@ def search_solution_and_code(title):
 
 def generate_table(problems):
     # headers = ['', '#', 'Title', 'Tags', 'Difficulty', 'Article', 'Solution']
-    headers = ['', '#', 'Title', 'Difficulty', 'Article', 'Solution', 'Code']
+    headers = ['#', 'Title', 'Difficulty', 'Article', 'Solution', 'Code']
     markers = [':---:' for _ in headers]
-    markers[1] = '---'
+    markers[1] = '---'   # Title
+    headers = [''] + headers + ['']
+    markers = [''] + markers + ['']
 
     table = list()
     table.append("|".join(headers))
@@ -268,6 +270,7 @@ def generate_table(problems):
             article_link,
             solution_link,
             code_link,
+            '',
         ]
         table.append("|".join(content))
 
