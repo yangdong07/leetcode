@@ -210,15 +210,32 @@ def get_solutions(path):
     return solutions
 
 
-def generate_table(problems, solutions):
+def search_solution_and_code(title):
+    # search solutions
+    solution_link = os.path.join('./solutions', title + '.md')
+    if not os.path.exists(solution_link):
+        solution_link = ''
+
+    # search code
+    code_candidates = {'python': '.py'}
+    code_links = {}
+    for code, suffix in code_candidates.items():
+        code_link = './%s/%s%s' % (code, title, suffix)
+        if os.path.exists(code_link):
+            code_links[code] = code_link
+
+    return solution_link, code_links
+
+
+def generate_table(problems):
     # headers = ['', '#', 'Title', 'Tags', 'Difficulty', 'Article', 'Solution']
-    headers = ['', '#', 'Title', 'Difficulty', 'Article', 'Solution']
-    markers = ['-' * len(s) for s in headers]
+    headers = ['', '#', 'Title', 'Difficulty', 'Article', 'Solution', 'Code']
+    markers = [':---:' for _ in headers]
+    markers[1] = '---'
 
     table = list()
     table.append("|".join(headers))
     table.append("|".join(markers))
-
 
     for problem in problems:
         index = problem['index']
@@ -234,9 +251,13 @@ def generate_table(problems, solutions):
         if 'solution_link' in problem and problem['solution_link']:
             article_link = '[💡](%s)' % problem['solution_link']
 
-        solution_link = ''
-        if index in solutions:
-            solution_link = '[📜](%s)' % urllib.parse.quote(solutions[index])
+        title = '%s. %s' % (index, problem['title'])
+        solution_link, code_links = search_solution_and_code(title)
+
+        if solution_link:
+            solution_link = '[📜](%s)' % urllib.parse.quote(solution_link)
+
+        code_link = ', '.join(['[%s](%s)' % (c, urllib.parse.quote(cl)) for c, cl in code_links.items()])
 
         content = [
             '',
@@ -246,6 +267,7 @@ def generate_table(problems, solutions):
             labels.get(problem['label'], '💔'),
             article_link,
             solution_link,
+            code_link,
         ]
         table.append("|".join(content))
 
@@ -274,13 +296,13 @@ def generate_table_by_tags(problems, solutions):
         text.append('### %s' % tag)
         text.append('')
         tag_problems.sort(key=lambda p: int(p['index']))
-        text.append(generate_table(tag_problems, solutions))
+        text.append(generate_table(tag_problems))
         text.append('')
 
     text.append('### Other')
     text.append('')
     no_tag_problems.sort(key=lambda p: int(p['index']))
-    text.append(generate_table(no_tag_problems, solutions))
+    text.append(generate_table(no_tag_problems))
     text.append('')
     return '\n'.join(text)
 
@@ -301,10 +323,12 @@ def generate_solution_template(index):
     if not problem:
         raise Exception('problem %s not found' % index)
 
-    file_name = '%s. %s.md' % (index, problem['title'])
+    title = '%s. %s' % (index, problem['title'])
+    md_file = title + '.md'
+    py_file = title + '.py'
 
-    if os.path.exists(file_name):
-        warnings.warn('Be careful!!! Overwriting %s' % file_name)
+    if os.path.exists(md_file):
+        warnings.warn('Be careful!!! Overwriting %s' % md_file)
         time.sleep(1)
 
     # TODO: maybe unlock someday, if i'm rich.
@@ -338,17 +362,25 @@ def generate_solution_template(index):
     if problem.get('solution_link'):
         abstract += '\t[💡](%s)' % problem['solution_link']
 
+    # be careful here, be careful about the relative path
+    code_link = '[Code](../python/%s)' % urllib.parse.quote(py_file)
+
     markdown = html2markdown(problem['description'])
 
-    with open(file_name, 'w') as f:
-        f.write('### %s\n\n' % file_name[:-3])
+    with open(md_file, 'w') as f:
+        f.write('### %s\n\n' % md_file[:-3])
         # write topics
         f.write('%s\n\n' % abstract)
         f.write('#### Description\n\n')
         f.write(markdown)
         f.write('\n\n#### Analysis\n\n')
-        f.write('#### Solution\n\n')
-        f.write('```python\n```\n')
+        f.write('#### %s\n\n' % code_link)
+
+    # generate python empty file
+    if not os.path.exists(py_file):
+        with open(py_file, 'w') as f:
+            f.write('\n\n# %s\n' % py_file[:-3])
+            f.write('# %s\n\n' % problem['problem_link'])
 
 
 if __name__ == '__main__':
