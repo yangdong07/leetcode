@@ -295,7 +295,17 @@ def generate_table_by_tags(problems, solutions):
                     topics[tag] = list()
                 topics[tag].append(problem)
 
-    for tag, tag_problems in topics.items():
+    # add anchors
+    tag_list = sorted(topics.keys())
+    for tag in tag_list:
+        text.append('[%s](#%s)' % (tag, tag.lower().replace(' ', '-')))
+    text.append('')
+    text.append('[Other](#other)')
+    text.append('')
+
+    # tag tables
+    for tag in tag_list:
+        tag_problems = topics[tag]
         text.append('### %s' % tag)
         text.append('')
         tag_problems.sort(key=lambda p: int(p['index']))
