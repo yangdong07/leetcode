@@ -216,7 +216,7 @@ def search_solutions_and_codes(path='./solutions'):
                 file_path = os.path.join(code_path, file_name)
                 if os.path.isfile(file_path) and file_name.endswith(suffix):
                     index = file_name.split('.')[0]
-                    code_links[index][code] = code_path
+                    code_links[index][code] = file_path
     return solutions, code_links
 
 
@@ -273,7 +273,7 @@ def generate_table(problems, solutions, code_links):
         if index in code_links:
             code_link = ', '.join(['[%s](%s)' % (c, urllib.parse.quote(os.path.join('..', cl)))
                                    for c, cl in code_links[index].items()])
-
+            print(code_link)
         content = [
             '',
             index,

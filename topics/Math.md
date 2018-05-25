@@ -9,7 +9,7 @@
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number) |💚|[💡](https://leetcode.com/articles/palindrome-number)|[📜](.././solutions/9.%20Palindrome%20Number.md)||
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman) |🧡||||
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer) |💚||||
-|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers) |🧡||[📜](.././solutions/29.%20Divide%20Two%20Integers.md)|[python](.././python)|
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers) |🧡||[📜](.././solutions/29.%20Divide%20Two%20Integers.md)|[python](.././python/29.%20Divide%20Two%20Integers.py)|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings) |🧡||||
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n) |🧡|[💡](https://leetcode.com/articles/powx-n)|||
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence) |🧡||||

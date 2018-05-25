@@ -14,9 +14,9 @@
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |🧡||||
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |💚||||
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |🧡|[💡](https://leetcode.com/articles/generate-parentheses)|[📜](.././solutions/22.%20Generate%20Parentheses.md)||
-|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr) |💚||[📜](.././solutions/28.%20Implement%20strStr%28%29.md)|[python](.././python)|
-|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words) |❤️||[📜](.././solutions/30.%20Substring%20with%20Concatenation%20of%20All%20Words.md)|[python](.././python)|
-|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) |❤️|[💡](https://leetcode.com/articles/longest-valid-parentheses)|[📜](.././solutions/32.%20Longest%20Valid%20Parentheses.md)|[python](.././python)|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr) |💚||[📜](.././solutions/28.%20Implement%20strStr%28%29.md)|[python](.././python/28.%20Implement%20strStr%28%29.py)|
+|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words) |❤️||[📜](.././solutions/30.%20Substring%20with%20Concatenation%20of%20All%20Words.md)|[python](.././python/30.%20Substring%20with%20Concatenation%20of%20All%20Words.py)|
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) |❤️|[💡](https://leetcode.com/articles/longest-valid-parentheses)|[📜](.././solutions/32.%20Longest%20Valid%20Parentheses.md)|[python](.././python/32.%20Longest%20Valid%20Parentheses.py)|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say) |💚||||
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings) |🧡||||
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |❤️||||
@@ -26,7 +26,7 @@
 |67|[Add Binary](https://leetcode.com/problems/add-binary) |💚||||
 |68|[Text Justification](https://leetcode.com/problems/text-justification) |❤️||||
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path) |🧡||||
-|72|[Edit Distance](https://leetcode.com/problems/edit-distance) |❤️||[📜](.././solutions/72.%20Edit%20Distance.md)|[python](.././python)|
+|72|[Edit Distance](https://leetcode.com/problems/edit-distance) |❤️||[📜](.././solutions/72.%20Edit%20Distance.md)|[python](.././python/72.%20Edit%20Distance.py)|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |❤️||||
 |87|[Scramble String](https://leetcode.com/problems/scramble-string) |❤️||||
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways) |🧡||||
