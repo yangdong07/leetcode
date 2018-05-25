@@ -3,18 +3,18 @@
 
 |#|Title|Difficulty|Article|Solution|Code|
 |:---:|---|:---:|:---:|:---:|:---:|
-|1|[Two Sum](https://leetcode.com/problems/two-sum) |💚|[💡](https://leetcode.com/articles/two-sum)|[📜](./solutions/1.%20Two%20Sum.md)|[python](./python)|
-|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |❤️|[💡](https://leetcode.com/articles/median-of-two-sorted-arrays)|[📜](./solutions/4.%20Median%20of%20Two%20Sorted%20Arrays.md)||
+|1|[Two Sum](https://leetcode.com/problems/two-sum) |💚|[💡](https://leetcode.com/articles/two-sum)|[📜](.././solutions/1.%20Two%20Sum.md)|[python](.././python)|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |❤️|[💡](https://leetcode.com/articles/median-of-two-sorted-arrays)|[📜](.././solutions/4.%20Median%20of%20Two%20Sorted%20Arrays.md)||
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water) |🧡|[💡](https://leetcode.com/articles/container-most-water)|||
 |15|[3Sum](https://leetcode.com/problems/3sum) |🧡||||
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest) |🧡||||
 |18|[4Sum](https://leetcode.com/problems/4sum) |🧡||||
-|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) |💚|[💡](https://leetcode.com/articles/remove-duplicates-sorted-array)|[📜](./solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)|[python](./python)|
-|27|[Remove Element](https://leetcode.com/problems/remove-element) |💚|[💡](https://leetcode.com/articles/remove-element)|[📜](./solutions/27.%20Remove%20Element.md)|[python](./python)|
-|31|[Next Permutation](https://leetcode.com/problems/next-permutation) |🧡|[💡](https://leetcode.com/articles/next-permutation)|[📜](./solutions/31.%20Next%20Permutation.md)|[python](./python)|
-|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |🧡||[📜](./solutions/33.%20Search%20in%20Rotated%20Sorted%20Array.md)|[python](./python)|
-|34|[Search for a Range](https://leetcode.com/problems/search-for-a-range) |🧡|[💡](https://leetcode.com/articles/search-for-a-range)|[📜](./solutions/34.%20Search%20for%20a%20Range.md)|[python](./python)|
-|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position) |💚||[📜](./solutions/35.%20Search%20Insert%20Position.md)|[python](./python)|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) |💚|[💡](https://leetcode.com/articles/remove-duplicates-sorted-array)|[📜](.././solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)|[python](.././python)|
+|27|[Remove Element](https://leetcode.com/problems/remove-element) |💚|[💡](https://leetcode.com/articles/remove-element)|[📜](.././solutions/27.%20Remove%20Element.md)|[python](.././python)|
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation) |🧡|[💡](https://leetcode.com/articles/next-permutation)|[📜](.././solutions/31.%20Next%20Permutation.md)|[python](.././python)|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |🧡||[📜](.././solutions/33.%20Search%20in%20Rotated%20Sorted%20Array.md)|[python](.././python)|
+|34|[Search for a Range](https://leetcode.com/problems/search-for-a-range) |🧡|[💡](https://leetcode.com/articles/search-for-a-range)|[📜](.././solutions/34.%20Search%20for%20a%20Range.md)|[python](.././python)|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position) |💚||[📜](.././solutions/35.%20Search%20Insert%20Position.md)|[python](.././python)|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum) |🧡||||
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii) |🧡||||
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive) |❤️||||
@@ -29,7 +29,7 @@
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |🧡||||
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths) |🧡||||
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |🧡||||
-|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |🧡|[💡](https://leetcode.com/articles/minimum-path-sum)|[📜](./solutions/64.%20Minimum%20Path%20Sum.md)|[python](./python)|
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |🧡|[💡](https://leetcode.com/articles/minimum-path-sum)|[📜](.././solutions/64.%20Minimum%20Path%20Sum.md)|[python](.././python)|
 |66|[Plus One](https://leetcode.com/problems/plus-one) |💚||||
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) |🧡||||
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) |🧡||||

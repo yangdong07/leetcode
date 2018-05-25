@@ -3,7 +3,7 @@
 
 |#|Title|Difficulty|Article|Solution|Code|
 |:---:|---|:---:|:---:|:---:|:---:|
-|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) |❤️|[💡](https://leetcode.com/articles/merge-k-sorted-list)|[📜](./solutions/23.%20Merge%20k%20Sorted%20Lists.md)||
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) |❤️|[💡](https://leetcode.com/articles/merge-k-sorted-list)|[📜](.././solutions/23.%20Merge%20k%20Sorted%20Lists.md)||
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) |🧡||||
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) |❤️||||
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) |❤️||||

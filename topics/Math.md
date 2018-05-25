@@ -3,13 +3,13 @@
 
 |#|Title|Difficulty|Article|Solution|Code|
 |:---:|---|:---:|:---:|:---:|:---:|
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) |🧡|[💡](https://leetcode.com/articles/add-two-numbers)|[📜](./solutions/2.%20Add%20Two%20Numbers.md)||
-|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer) |💚||[📜](./solutions/7.%20Reverse%20Integer.md)||
-|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) |🧡||[📜](./solutions/8.%20String%20to%20Integer%20%28atoi%29.md)||
-|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number) |💚|[💡](https://leetcode.com/articles/palindrome-number)|[📜](./solutions/9.%20Palindrome%20Number.md)||
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) |🧡|[💡](https://leetcode.com/articles/add-two-numbers)|[📜](.././solutions/2.%20Add%20Two%20Numbers.md)||
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer) |💚||[📜](.././solutions/7.%20Reverse%20Integer.md)||
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) |🧡||[📜](.././solutions/8.%20String%20to%20Integer%20%28atoi%29.md)||
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number) |💚|[💡](https://leetcode.com/articles/palindrome-number)|[📜](.././solutions/9.%20Palindrome%20Number.md)||
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman) |🧡||||
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer) |💚||||
-|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers) |🧡||[📜](./solutions/29.%20Divide%20Two%20Integers.md)|[python](./python)|
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers) |🧡||[📜](.././solutions/29.%20Divide%20Two%20Integers.md)|[python](.././python)|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings) |🧡||||
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n) |🧡|[💡](https://leetcode.com/articles/powx-n)|||
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence) |🧡||||

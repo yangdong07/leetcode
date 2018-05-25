@@ -3,10 +3,10 @@
 
 |#|Title|Difficulty|Article|Solution|Code|
 |:---:|---|:---:|:---:|:---:|:---:|
-|1|[Two Sum](https://leetcode.com/problems/two-sum) |💚|[💡](https://leetcode.com/articles/two-sum)|[📜](./solutions/1.%20Two%20Sum.md)|[python](./python)|
-|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |🧡|[💡](https://leetcode.com/articles/longest-substring-without-repeating-characters)|[📜](./solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)||
+|1|[Two Sum](https://leetcode.com/problems/two-sum) |💚|[💡](https://leetcode.com/articles/two-sum)|[📜](.././solutions/1.%20Two%20Sum.md)|[python](.././python)|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |🧡|[💡](https://leetcode.com/articles/longest-substring-without-repeating-characters)|[📜](.././solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)||
 |18|[4Sum](https://leetcode.com/problems/4sum) |🧡||||
-|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words) |❤️||[📜](./solutions/30.%20Substring%20with%20Concatenation%20of%20All%20Words.md)|[python](./python)|
+|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words) |❤️||[📜](.././solutions/30.%20Substring%20with%20Concatenation%20of%20All%20Words.md)|[python](.././python)|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku) |🧡||||
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |❤️||||
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams) |🧡|[💡](https://leetcode.com/articles/group-anagrams)|||

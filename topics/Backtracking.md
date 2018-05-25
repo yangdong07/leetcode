@@ -3,9 +3,9 @@
 
 |#|Title|Difficulty|Article|Solution|Code|
 |:---:|---|:---:|:---:|:---:|:---:|
-|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |❤️|[💡](https://leetcode.com/articles/regular-expression-matching)|[📜](./solutions/10.%20Regular%20Expression%20Matching.md)||
+|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |❤️|[💡](https://leetcode.com/articles/regular-expression-matching)|[📜](.././solutions/10.%20Regular%20Expression%20Matching.md)||
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |🧡||||
-|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |🧡|[💡](https://leetcode.com/articles/generate-parentheses)|[📜](./solutions/22.%20Generate%20Parentheses.md)||
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |🧡|[💡](https://leetcode.com/articles/generate-parentheses)|[📜](.././solutions/22.%20Generate%20Parentheses.md)||
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |❤️||||
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum) |🧡||||
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii) |🧡||||

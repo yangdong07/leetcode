@@ -266,11 +266,13 @@ def generate_table(problems, solutions, code_links):
 
         solution_link = ''
         if index in solutions:
-            solution_link = '[📜](%s)' % urllib.parse.quote(solutions[index])
+            solution_link = os.path.join('..', solutions[index])
+            solution_link = '[📜](%s)' % urllib.parse.quote(solution_link)
 
         code_link = ''
         if index in code_links:
-            code_link = ', '.join(['[%s](%s)' % (c, urllib.parse.quote(cl)) for c, cl in code_links[index].items()])
+            code_link = ', '.join(['[%s](%s)' % (c, urllib.parse.quote(os.path.join('..', cl)))
+                                   for c, cl in code_links[index].items()])
 
         content = [
             '',

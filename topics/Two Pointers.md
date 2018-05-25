@@ -3,16 +3,16 @@
 
 |#|Title|Difficulty|Article|Solution|Code|
 |:---:|---|:---:|:---:|:---:|:---:|
-|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |🧡|[💡](https://leetcode.com/articles/longest-substring-without-repeating-characters)|[📜](./solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)||
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |🧡|[💡](https://leetcode.com/articles/longest-substring-without-repeating-characters)|[📜](.././solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)||
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water) |🧡|[💡](https://leetcode.com/articles/container-most-water)|||
 |15|[3Sum](https://leetcode.com/problems/3sum) |🧡||||
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest) |🧡||||
 |18|[4Sum](https://leetcode.com/problems/4sum) |🧡||||
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) |🧡|[💡](https://leetcode.com/articles/remove-nth-node-end-list)|||
-|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) |💚|[💡](https://leetcode.com/articles/remove-duplicates-sorted-array)|[📜](./solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)|[python](./python)|
-|27|[Remove Element](https://leetcode.com/problems/remove-element) |💚|[💡](https://leetcode.com/articles/remove-element)|[📜](./solutions/27.%20Remove%20Element.md)|[python](./python)|
-|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr) |💚||[📜](./solutions/28.%20Implement%20strStr%28%29.md)|[python](./python)|
-|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words) |❤️||[📜](./solutions/30.%20Substring%20with%20Concatenation%20of%20All%20Words.md)|[python](./python)|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) |💚|[💡](https://leetcode.com/articles/remove-duplicates-sorted-array)|[📜](.././solutions/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)|[python](.././python)|
+|27|[Remove Element](https://leetcode.com/problems/remove-element) |💚|[💡](https://leetcode.com/articles/remove-element)|[📜](.././solutions/27.%20Remove%20Element.md)|[python](.././python)|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr) |💚||[📜](.././solutions/28.%20Implement%20strStr%28%29.md)|[python](.././python)|
+|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words) |❤️||[📜](.././solutions/30.%20Substring%20with%20Concatenation%20of%20All%20Words.md)|[python](.././python)|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |❤️|[💡](https://leetcode.com/articles/trapping-rain-water)|||
 |61|[Rotate List](https://leetcode.com/problems/rotate-list) |🧡||||
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors) |🧡||||

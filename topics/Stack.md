@@ -32,7 +32,7 @@
 |503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii) |🧡|[💡](https://leetcode.com/articles/next-greater-element-ii)|||
 |591|[Tag Validator](https://leetcode.com/problems/tag-validator) |❤️|[💡](https://leetcode.com/articles/tag-validator)|||
 |636|[Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions) |🧡|[💡](https://leetcode.com/articles/exclusive-time-of-functions)|||
-|682|[Baseball Game](https://leetcode.com/problems/baseball-game) |💚|[💡](https://leetcode.com/articles/baseball-game)|[📜](./solutions/682.%20Baseball%20Game.md)||
+|682|[Baseball Game](https://leetcode.com/problems/baseball-game) |💚|[💡](https://leetcode.com/articles/baseball-game)|[📜](.././solutions/682.%20Baseball%20Game.md)||
 |726|[Number of Atoms](https://leetcode.com/problems/number-of-atoms) |❤️|[💡](https://leetcode.com/articles/number-of-atoms)|||
 |735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision) |🧡|[💡](https://leetcode.com/articles/asteroid-collision)|||
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures) |🧡|[💡](https://leetcode.com/articles/daily-temperatures)|||
