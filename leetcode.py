@@ -9,6 +9,7 @@ import argparse
 
 import urllib.parse
 
+from collections import defaultdict, OrderedDict
 from pprint import pprint
 from urllib.parse import urljoin
 
@@ -26,6 +27,7 @@ labels = {
     'Medium': '🧡',
     'Hard': '❤️',
 }
+
 
 def init_db():
     client = MongoClient('localhost', 27017)
@@ -90,7 +92,6 @@ def parse_page(page_content, collection):
         except:
             print('Error parse: ', str(row))
             traceback.print_exc()
-
 
 
 # parse topic page
@@ -196,38 +197,48 @@ def update_detail(indices):
     driver.close()
 
 
-def get_solutions(path):
+def search_solutions_and_codes(path='./solutions'):
+    # search solutions
     solutions = {}
-
-    if not os.path.exists(path):
-        return solutions
-
     for file_name in os.listdir(path):
         file_path = os.path.join(path, file_name)
         if os.path.isfile(file_path) and file_name.endswith('.md'):
             index = file_name.split('.')[0]
             solutions[index] = file_path
-    return solutions
-
-
-def search_solution_and_code(title):
-    # search solutions
-    solution_link = os.path.join('./solutions', title + '.md')
-    if not os.path.exists(solution_link):
-        solution_link = ''
 
     # search code
     code_candidates = {'python': '.py'}
-    code_links = {}
+    code_links = defaultdict(dict)
     for code, suffix in code_candidates.items():
-        code_link = './%s/%s%s' % (code, title, suffix)
-        if os.path.exists(code_link):
-            code_links[code] = code_link
+        code_path = './' + code
+        if os.path.exists(code_path):
+            for file_name in os.listdir(code_path):
+                file_path = os.path.join(code_path, file_name)
+                if os.path.isfile(file_path) and file_name.endswith(suffix):
+                    index = file_name.split('.')[0]
+                    code_links[index][code] = code_path
+    return solutions, code_links
 
-    return solution_link, code_links
+
+def get_tag_problems(problems):
+    problems = {p['index']: p for p in problems}
+
+    topics = defaultdict(list)
+    for index, problem in problems.items():
+        if 'tags' not in problem:
+            topics['other'].append(problem)
+        else:
+            tags = problem['tags']
+            for tag in tags:
+                topics[tag].append(problem)
+
+    tag_problems = OrderedDict()
+    for tag in sorted(topics.keys()):
+        tag_problems[tag] = topics[tag]
+    return tag_problems
 
 
-def generate_table(problems):
+def generate_table(problems, solutions, code_links):
     # headers = ['', '#', 'Title', 'Tags', 'Difficulty', 'Article', 'Solution']
     headers = ['#', 'Title', 'Difficulty', 'Article', 'Solution', 'Code']
     markers = [':---:' for _ in headers]
@@ -253,13 +264,13 @@ def generate_table(problems):
         if 'solution_link' in problem and problem['solution_link']:
             article_link = '[💡](%s)' % problem['solution_link']
 
-        title = '%s. %s' % (index, problem['title'])
-        solution_link, code_links = search_solution_and_code(title)
+        solution_link = ''
+        if index in solutions:
+            solution_link = '[📜](%s)' % urllib.parse.quote(solutions[index])
 
-        if solution_link:
-            solution_link = '[📜](%s)' % urllib.parse.quote(solution_link)
-
-        code_link = ', '.join(['[%s](%s)' % (c, urllib.parse.quote(cl)) for c, cl in code_links.items()])
+        code_link = ''
+        if index in code_links:
+            code_link = ', '.join(['[%s](%s)' % (c, urllib.parse.quote(cl)) for c, cl in code_links[index].items()])
 
         content = [
             '',
@@ -277,57 +288,72 @@ def generate_table(problems):
     return '\n'.join(table)
 
 
-def generate_table_by_tags(problems, solutions):
+def generate_tables_by_tag():
+    leetcode = get_db()
+    tag_problems = get_tag_problems(leetcode.find())
+    solutions, code_links = search_solutions_and_codes('./solutions')
 
-    problems = {p['index']: p for p in problems}
-
-    text = list()
-
-    no_tag_problems = []
-    topics = dict()
-    for index, problem in problems.items():
-        if 'tags' not in problem:
-            no_tag_problems.append(problem)
-        else:
-            tags = problem['tags']
-            for tag in tags:
-                if tag not in topics:
-                    topics[tag] = list()
-                topics[tag].append(problem)
-
-    # add anchors
-    tag_list = sorted(topics.keys())
-    for tag in tag_list:
-        text.append('[%s](#%s)' % (tag, tag.lower().replace(' ', '-')))
-    text.append('')
-    text.append('[Other](#other)')
-    text.append('')
-
-    # tag tables
-    for tag in tag_list:
-        tag_problems = topics[tag]
-        text.append('### %s' % tag)
-        text.append('')
-        tag_problems.sort(key=lambda p: int(p['index']))
-        text.append(generate_table(tag_problems))
-        text.append('')
-
-    text.append('### Other')
-    text.append('')
-    no_tag_problems.sort(key=lambda p: int(p['index']))
-    text.append(generate_table(no_tag_problems))
-    text.append('')
-    return '\n'.join(text)
+    for topic in tag_problems:
+        file_path = os.path.join('./topics', topic + '.md')
+        with open(file_path, 'w') as f:
+            f.write('\n## %s\n\n' % topic)
+            f.write(generate_table(tag_problems[topic], solutions, code_links))
 
 
 def generate_readme():
     leetcode = get_db()
-    problems = leetcode.find()
-    solutions = get_solutions('./solutions')
-    text = generate_table_by_tags(problems, solutions)
+    tag_problems = get_tag_problems(leetcode.find())
+    solutions, _ = search_solutions_and_codes('./solutions')
+
+    solved_count = defaultdict(int)
+    for tag, problems in tag_problems.items():
+        solved = [p for p in problems if p['index'] in solutions]
+        solved_count[tag] = len(solved)
+
+    headers = ['Topic', 'Total', 'Solved', 'Progress']
+    markers = ['-'*len(h) for h in headers]
+    markers[-1] = markers[-1] + ':'
+    headers = [''] + headers + ['']
+    markers = [''] + markers + ['']
+
+    table = list()
+    table.append("|".join(headers))
+    table.append("|".join(markers))
+
+    # tag tables
+    for tag in tag_problems:
+        tag_link = urllib.parse.quote(os.path.join('./topics', tag + '.md'))
+        count = len(tag_problems[tag])
+        # print
+        solved = solved_count[tag]
+        progress = 100.0 * solved / count
+        content = [
+            '',
+            '[%s](%s)' % (tag, tag_link),
+            str(count),
+            # problem_tags,
+            str(solved),
+            '%5.2f %%' % progress,
+            '',
+        ]
+        table.append('|'.join(content))
+
+    total = leetcode.find().count()
+    solved = len(solutions.keys())
+    content = [
+        '',
+        'Total',
+        str(total),
+        # problem_tags,
+        str(solved),
+        '%.2f %%' % (100.0 * solved / total),
+        '',
+    ]
+    table.append('|'.join(content))
+
     with open('README.md', 'w') as f:
         f.write('\n## LeetCode\n\n')
-        f.write(text)
+        f.write('\n'.join(table))
 
 
 def generate_solution_template(index):
@@ -416,6 +442,7 @@ if __name__ == '__main__':
 
     options_generate = parser_generate.add_mutually_exclusive_group()
     options_generate.add_argument('--readme', action='store_true')
+    options_generate.add_argument('--tables', action='store_true')
     options_generate.add_argument('--index', nargs=1)
 
     args = parser.parse_args()
@@ -442,6 +469,8 @@ if __name__ == '__main__':
     elif args.command == 'generate':
         if args.readme:
             generate_readme()
+        elif args.tables:
+            generate_tables_by_tag()
         elif args.index:
             generate_solution_template(args.index[0])
         else:
