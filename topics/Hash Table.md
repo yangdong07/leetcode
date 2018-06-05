@@ -7,7 +7,7 @@
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) |🧡|[💡](https://leetcode.com/articles/longest-substring-without-repeating-characters)|[📜](.././solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)||
 |18|[4Sum](https://leetcode.com/problems/4sum) |🧡||||
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words) |❤️||[📜](.././solutions/30.%20Substring%20with%20Concatenation%20of%20All%20Words.md)|[python](.././python/30.%20Substring%20with%20Concatenation%20of%20All%20Words.py)|
-|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku) |🧡||||
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku) |🧡||[📜](.././solutions/36.%20Valid%20Sudoku.md)|[python](.././python/36.%20Valid%20Sudoku.py)|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |❤️||||
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams) |🧡|[💡](https://leetcode.com/articles/group-anagrams)|||
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |❤️||||
