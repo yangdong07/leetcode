@@ -15,7 +15,7 @@
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |🧡||[📜](.././solutions/33.%20Search%20in%20Rotated%20Sorted%20Array.md)|[python](.././python/33.%20Search%20in%20Rotated%20Sorted%20Array.py)|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range) |🧡|[💡](https://leetcode.com/articles/search-for-a-range)|[📜](.././solutions/34.%20Search%20for%20a%20Range.md)|[python](.././python/34.%20Search%20for%20a%20Range.py)|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position) |💚||[📜](.././solutions/35.%20Search%20Insert%20Position.md)|[python](.././python/35.%20Search%20Insert%20Position.py)|
-|39|[Combination Sum](https://leetcode.com/problems/combination-sum) |🧡||||
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum) |🧡||[📜](.././solutions/39.%20Combination%20Sum.md)|[python](.././python/39.%20Combination%20Sum.py)|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii) |🧡||||
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive) |❤️||||
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |❤️|[💡](https://leetcode.com/articles/trapping-rain-water)|||

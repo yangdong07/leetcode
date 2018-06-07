@@ -6,8 +6,8 @@
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |❤️|[💡](https://leetcode.com/articles/regular-expression-matching)|[📜](.././solutions/10.%20Regular%20Expression%20Matching.md)||
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |🧡||||
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |🧡|[💡](https://leetcode.com/articles/generate-parentheses)|[📜](.././solutions/22.%20Generate%20Parentheses.md)||
-|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |❤️||||
-|39|[Combination Sum](https://leetcode.com/problems/combination-sum) |🧡||||
+|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |❤️||[📜](.././solutions/37.%20Sudoku%20Solver.md)|[python](.././python/37.%20Sudoku%20Solver.py)|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum) |🧡||[📜](.././solutions/39.%20Combination%20Sum.md)|[python](.././python/39.%20Combination%20Sum.py)|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii) |🧡||||
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |❤️||||
 |46|[Permutations](https://leetcode.com/problems/permutations) |🧡||||
