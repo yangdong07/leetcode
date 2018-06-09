@@ -16,9 +16,9 @@
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range) |🧡|[💡](https://leetcode.com/articles/search-for-a-range)|[📜](.././solutions/34.%20Search%20for%20a%20Range.md)|[python](.././python/34.%20Search%20for%20a%20Range.py)|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position) |💚||[📜](.././solutions/35.%20Search%20Insert%20Position.md)|[python](.././python/35.%20Search%20Insert%20Position.py)|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum) |🧡||[📜](.././solutions/39.%20Combination%20Sum.md)|[python](.././python/39.%20Combination%20Sum.py)|
-|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii) |🧡||||
-|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive) |❤️||||
-|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |❤️|[💡](https://leetcode.com/articles/trapping-rain-water)|||
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii) |🧡||[📜](.././solutions/40.%20Combination%20Sum%20II.md)|[python](.././python/40.%20Combination%20Sum%20II.py)|
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive) |❤️||[📜](.././solutions/41.%20First%20Missing%20Positive.md)|[python](.././python/41.%20First%20Missing%20Positive.py)|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |❤️|[💡](https://leetcode.com/articles/trapping-rain-water)|[📜](.././solutions/42.%20Trapping%20Rain%20Water.md)|[python](.././python/42.%20Trapping%20Rain%20Water.py)|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii) |❤️||||
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image) |🧡||||
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |💚||||

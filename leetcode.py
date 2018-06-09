@@ -458,6 +458,10 @@ def solved_and_commit(index):
     for src, dst in to_move.items():
         shutil.move(src, dst)
 
+    # udpate readme and tables
+    generate_readme()
+    generate_tables_by_tag()
+
     # git commit and push
     git = Repo('.').git
     print(git.add('.'))

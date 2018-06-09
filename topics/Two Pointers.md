@@ -13,7 +13,7 @@
 |27|[Remove Element](https://leetcode.com/problems/remove-element) |💚|[💡](https://leetcode.com/articles/remove-element)|[📜](.././solutions/27.%20Remove%20Element.md)|[python](.././python/27.%20Remove%20Element.py)|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr) |💚||[📜](.././solutions/28.%20Implement%20strStr%28%29.md)|[python](.././python/28.%20Implement%20strStr%28%29.py)|
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words) |❤️||[📜](.././solutions/30.%20Substring%20with%20Concatenation%20of%20All%20Words.md)|[python](.././python/30.%20Substring%20with%20Concatenation%20of%20All%20Words.py)|
-|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |❤️|[💡](https://leetcode.com/articles/trapping-rain-water)|||
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |❤️|[💡](https://leetcode.com/articles/trapping-rain-water)|[📜](.././solutions/42.%20Trapping%20Rain%20Water.md)|[python](.././python/42.%20Trapping%20Rain%20Water.py)|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list) |🧡||||
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors) |🧡||||
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |❤️||||

@@ -8,7 +8,7 @@
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |🧡|[💡](https://leetcode.com/articles/generate-parentheses)|[📜](.././solutions/22.%20Generate%20Parentheses.md)||
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |❤️||[📜](.././solutions/37.%20Sudoku%20Solver.md)|[python](.././python/37.%20Sudoku%20Solver.py)|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum) |🧡||[📜](.././solutions/39.%20Combination%20Sum.md)|[python](.././python/39.%20Combination%20Sum.py)|
-|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii) |🧡||||
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii) |🧡||[📜](.././solutions/40.%20Combination%20Sum%20II.md)|[python](.././python/40.%20Combination%20Sum%20II.py)|
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |❤️||||
 |46|[Permutations](https://leetcode.com/problems/permutations) |🧡||||
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii) |🧡||||
