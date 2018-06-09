@@ -434,20 +434,26 @@ def solved_and_commit(index):
 
     title = '%s. %s' % (index, problem['title'])
     files = [title + '.md', title + '.py']
-    for f in files:
-        if not os.path.exists(f):
-            warnings.warn('solution file <%s> not exists' % f)
 
     # move files
     to_move = {}
     path_map = {'py': 'python', 'md': 'solutions'}
     for f in files:
+        if not os.path.exists(f):
+            warnings.warn('solution file <%s> not exists' % f)
+            continue
+
         suffix = f.rsplit('.', 1)[-1]
         if suffix in path_map:
             path = os.path.join(path_map[suffix], f)
             to_move[f] = path
         else:
             warnings.warn('<%s> stay here' % f)
+
+    print('Plan to Move:\n')
+    for src, dst in to_move.items():
+        print('\t %s ---> %s' % (src, dst))
+    input('\nReady to Move?')
 
     for src, dst in to_move.items():
         shutil.move(src, dst)
@@ -458,11 +464,11 @@ def solved_and_commit(index):
     print(git.status())
 
     default_summary = '%s, Solved' % title
-    commit = input('\nCheck git status, and Input Summary: \n[%s]\n' % default_summary)
+    commit = input('\nCheck git status, and Input Summary: [%s]\n' % default_summary)
     commit = commit or default_summary
     print(git.commit('-m', commit))
 
-    input('Enter to Push')
+    input('Ready to Push?')
     print(git.push())
 
 
