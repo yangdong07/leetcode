@@ -1,6 +1,7 @@
 
 import os
 import sys
+import shutil
 import traceback
 import time
 import warnings
@@ -13,6 +14,7 @@ from collections import defaultdict, OrderedDict
 from pprint import pprint
 from urllib.parse import urljoin
 
+from git import Repo
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -424,6 +426,46 @@ def generate_solution_template(index):
             f.write('# %s\n\n' % problem['problem_link'])
 
 
+def solved_and_commit(index):
+    leetcode = get_db()
+    problem = leetcode.find_one({'index': index})
+    if not problem:
+        raise Exception('problem %s not found' % index)
+
+    title = '%s. %s' % (index, problem['title'])
+    files = [title + '.md', title + '.py']
+    for f in files:
+        if not os.path.exists(f):
+            warnings.warn('solution file <%s> not exists' % f)
+
+    # move files
+    to_move = {}
+    path_map = {'py': 'python', 'md': 'solutions'}
+    for f in files:
+        suffix = f.rsplit('.', 1)[-1]
+        if suffix in path_map:
+            path = os.path.join(path_map[suffix], f)
+            to_move[f] = path
+        else:
+            warnings.warn('<%s> stay here' % f)
+
+    for src, dst in to_move.items():
+        shutil.move(src, dst)
+
+    # git commit and push
+    git = Repo('.').git
+    print(git.add('.'))
+    print(git.status())
+
+    default_summary = '%s, Solved' % title
+    commit = input('\nCheck git status, and Input Summary: \n[%s]\n' % default_summary)
+    commit = commit or default_summary
+    print(git.commit('-m', commit))
+
+    input('Enter to Push')
+    print(git.push())
+
+
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser()
@@ -446,6 +488,7 @@ if __name__ == '__main__':
     options_generate.add_argument('--readme', action='store_true')
     options_generate.add_argument('--tables', action='store_true')
     options_generate.add_argument('--index', nargs=1)
+    options_generate.add_argument('--solved', nargs=1)
 
     args = parser.parse_args()
 
@@ -475,6 +518,8 @@ if __name__ == '__main__':
             generate_tables_by_tag()
         elif args.index:
             generate_solution_template(args.index[0])
+        elif args.solved:
+            solved_and_commit(args.solved[0])
         else:
             parser_generate.print_help()
     else:
