@@ -3,7 +3,7 @@
 
 |#|Title|Difficulty|Article|Solution|Code|
 |:---:|---|:---:|:---:|:---:|:---:|
-|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |❤️|[💡](https://leetcode.com/articles/regular-expression-matching)|[📜](.././solutions/10.%20Regular%20Expression%20Matching.md)||
+|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |❤️|[💡](https://leetcode.com/articles/regular-expression-matching)|[📜](.././solutions/10.%20Regular%20Expression%20Matching.md)|[python](.././python/10.%20Regular%20Expression%20Matching.py)|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) |🧡||||
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses) |🧡|[💡](https://leetcode.com/articles/generate-parentheses)|[📜](.././solutions/22.%20Generate%20Parentheses.md)||
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |❤️||[📜](.././solutions/37.%20Sudoku%20Solver.md)|[python](.././python/37.%20Sudoku%20Solver.py)|

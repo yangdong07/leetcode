@@ -7,7 +7,7 @@
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |🧡|[💡](https://leetcode.com/articles/longest-palindromic-substring)|[📜](.././solutions/5.%20Longest%20Palindromic%20Substring.md)||
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) |🧡||[📜](.././solutions/6.%20ZigZag%20Conversion.md)||
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) |🧡||[📜](.././solutions/8.%20String%20to%20Integer%20%28atoi%29.md)||
-|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |❤️|[💡](https://leetcode.com/articles/regular-expression-matching)|[📜](.././solutions/10.%20Regular%20Expression%20Matching.md)||
+|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |❤️|[💡](https://leetcode.com/articles/regular-expression-matching)|[📜](.././solutions/10.%20Regular%20Expression%20Matching.md)|[python](.././python/10.%20Regular%20Expression%20Matching.py)|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman) |🧡||||
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer) |💚||||
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) |💚|[💡](https://leetcode.com/articles/longest-common-prefix)|||
