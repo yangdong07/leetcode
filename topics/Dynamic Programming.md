@@ -6,7 +6,7 @@
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) |🧡|[💡](https://leetcode.com/articles/longest-palindromic-substring)|[📜](.././solutions/5.%20Longest%20Palindromic%20Substring.md)||
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |❤️|[💡](https://leetcode.com/articles/regular-expression-matching)|[📜](.././solutions/10.%20Regular%20Expression%20Matching.md)||
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) |❤️|[💡](https://leetcode.com/articles/longest-valid-parentheses)|[📜](.././solutions/32.%20Longest%20Valid%20Parentheses.md)|[python](.././python/32.%20Longest%20Valid%20Parentheses.py)|
-|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |❤️||||
+|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |❤️||[📜](.././solutions/44.%20Wildcard%20Matching.md)|[python](.././python/44.%20Wildcard%20Matching.py)|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |💚||||
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths) |🧡||||
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |🧡||||
