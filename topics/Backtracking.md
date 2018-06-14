@@ -10,7 +10,7 @@
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum) |🧡||[📜](.././solutions/39.%20Combination%20Sum.md)|[python](.././python/39.%20Combination%20Sum.py)|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii) |🧡||[📜](.././solutions/40.%20Combination%20Sum%20II.md)|[python](.././python/40.%20Combination%20Sum%20II.py)|
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |❤️||[📜](.././solutions/44.%20Wildcard%20Matching.md)|[python](.././python/44.%20Wildcard%20Matching.py)|
-|46|[Permutations](https://leetcode.com/problems/permutations) |🧡||||
+|46|[Permutations](https://leetcode.com/problems/permutations) |🧡||[📜](.././solutions/46.%20Permutations.md)|[python](.././python/46.%20Permutations.py)|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii) |🧡||||
 |51|[N-Queens](https://leetcode.com/problems/n-queens) |❤️||||
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii) |❤️||||
