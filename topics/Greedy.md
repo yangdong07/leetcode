@@ -4,7 +4,7 @@
 |#|Title|Difficulty|Article|Solution|Code|
 |:---:|---|:---:|:---:|:---:|:---:|
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |❤️||[📜](.././solutions/44.%20Wildcard%20Matching.md)|[python](.././python/44.%20Wildcard%20Matching.py)|
-|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii) |❤️||||
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii) |❤️||[📜](.././solutions/45.%20Jump%20Game%20II.md)|[python](.././python/45.%20Jump%20Game%20II.py)|
 |55|[Jump Game](https://leetcode.com/problems/jump-game) |🧡|[💡](https://leetcode.com/articles/jump-game)|||
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) |💚|[💡](https://leetcode.com/articles/best-time-buy-and-sell-stock-ii)|||
 |134|[Gas Station](https://leetcode.com/problems/gas-station) |🧡||||
