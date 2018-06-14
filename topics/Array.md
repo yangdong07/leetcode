@@ -20,7 +20,7 @@
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive) |❤️||[📜](.././solutions/41.%20First%20Missing%20Positive.md)|[python](.././python/41.%20First%20Missing%20Positive.py)|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |❤️|[💡](https://leetcode.com/articles/trapping-rain-water)|[📜](.././solutions/42.%20Trapping%20Rain%20Water.md)|[python](.././python/42.%20Trapping%20Rain%20Water.py)|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii) |❤️||[📜](.././solutions/45.%20Jump%20Game%20II.md)|[python](.././python/45.%20Jump%20Game%20II.py)|
-|48|[Rotate Image](https://leetcode.com/problems/rotate-image) |🧡||||
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image) |🧡||[📜](.././solutions/48.%20Rotate%20Image.md)|[python](.././python/48.%20Rotate%20Image.py)|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |💚||||
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |🧡|[💡](https://leetcode.com/articles/spiral-matrix)|||
 |55|[Jump Game](https://leetcode.com/problems/jump-game) |🧡|[💡](https://leetcode.com/articles/jump-game)|||
