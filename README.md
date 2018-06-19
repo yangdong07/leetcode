@@ -6,7 +6,7 @@
 |[Array](./topics/Array.md)|131|15|11.45 %|
 |[Backtracking](./topics/Backtracking.md)|37|8|21.62 %|
 |[Binary Indexed Tree](./topics/Binary%20Indexed%20Tree.md)|5|0| 0.00 %|
-|[Binary Search](./topics/Binary%20Search.md)|48|5|10.42 %|
+|[Binary Search](./topics/Binary%20Search.md)|48|6|12.50 %|
 |[Binary Search Tree](./topics/Binary%20Search%20Tree.md)|13|0| 0.00 %|
 |[Bit Manipulation](./topics/Bit%20Manipulation.md)|31|0| 0.00 %|
 |[Brainteaser](./topics/Brainteaser.md)|3|1|33.33 %|
@@ -21,7 +21,7 @@
 |[Hash Table](./topics/Hash%20Table.md)|83|6| 7.23 %|
 |[Heap](./topics/Heap.md)|26|1| 3.85 %|
 |[Linked List](./topics/Linked%20List.md)|29|5|17.24 %|
-|[Math](./topics/Math.md)|91|6| 6.59 %|
+|[Math](./topics/Math.md)|91|7| 7.69 %|
 |[Memoization](./topics/Memoization.md)|1|0| 0.00 %|
 |[Minimax](./topics/Minimax.md)|3|0| 0.00 %|
 |[Queue](./topics/Queue.md)|5|0| 0.00 %|
@@ -37,4 +37,4 @@
 |[Two Pointers](./topics/Two%20Pointers.md)|42|6|14.29 %|
 |[Union Find](./topics/Union%20Find.md)|14|0| 0.00 %|
 |[other](./topics/other.md)|86|0| 0.00 %|
-|Total|800|43|5.38 %|
+|Total|800|44|5.50 %|

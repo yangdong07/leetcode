@@ -8,7 +8,7 @@
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |🧡||[📜](.././solutions/33.%20Search%20in%20Rotated%20Sorted%20Array.md)|[python](.././python/33.%20Search%20in%20Rotated%20Sorted%20Array.py)|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range) |🧡|[💡](https://leetcode.com/articles/search-for-a-range)|[📜](.././solutions/34.%20Search%20for%20a%20Range.md)|[python](.././python/34.%20Search%20for%20a%20Range.py)|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position) |💚||[📜](.././solutions/35.%20Search%20Insert%20Position.md)|[python](.././python/35.%20Search%20Insert%20Position.py)|
-|50|[Pow(x, n)](https://leetcode.com/problems/powx-n) |🧡|[💡](https://leetcode.com/articles/powx-n)|||
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n) |🧡|[💡](https://leetcode.com/articles/powx-n)|[📜](.././solutions/50.%20Pow%28x%2C%20n%29.md)|[python](.././python/50.%20Pow%28x%2C%20n%29.py)|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx) |💚||||
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) |🧡||||
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) |🧡||||

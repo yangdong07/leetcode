@@ -11,7 +11,7 @@
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer) |💚||||
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers) |🧡||[📜](.././solutions/29.%20Divide%20Two%20Integers.md)|[python](.././python/29.%20Divide%20Two%20Integers.py)|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings) |🧡||[📜](.././solutions/43.%20Multiply%20Strings.md)|[python](.././python/43.%20Multiply%20Strings.py)|
-|50|[Pow(x, n)](https://leetcode.com/problems/powx-n) |🧡|[💡](https://leetcode.com/articles/powx-n)|||
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n) |🧡|[💡](https://leetcode.com/articles/powx-n)|[📜](.././solutions/50.%20Pow%28x%2C%20n%29.md)|[python](.././python/50.%20Pow%28x%2C%20n%29.py)|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence) |🧡||||
 |65|[Valid Number](https://leetcode.com/problems/valid-number) |❤️||||
 |66|[Plus One](https://leetcode.com/problems/plus-one) |💚||||
