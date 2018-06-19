@@ -5,7 +5,7 @@
 |:---:|---|:---:|:---:|:---:|:---:|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) |❤️|[💡](https://leetcode.com/articles/median-of-two-sorted-arrays)|[📜](.././solutions/4.%20Median%20of%20Two%20Sorted%20Arrays.md)||
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) |❤️|[💡](https://leetcode.com/articles/merge-k-sorted-list)|[📜](.././solutions/23.%20Merge%20k%20Sorted%20Lists.md)||
-|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |💚||||
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |💚||[📜](.././solutions/53.%20Maximum%20Subarray.md)|[python](.././python/53.%20Maximum%20Subarray.py)|
 |169|[Majority Element](https://leetcode.com/problems/majority-element) |💚|[💡](https://leetcode.com/articles/majority-element)|||
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) |🧡||||
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) |❤️||||

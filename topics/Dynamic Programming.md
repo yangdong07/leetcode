@@ -7,7 +7,7 @@
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) |❤️|[💡](https://leetcode.com/articles/regular-expression-matching)|[📜](.././solutions/10.%20Regular%20Expression%20Matching.md)|[python](.././python/10.%20Regular%20Expression%20Matching.py)|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) |❤️|[💡](https://leetcode.com/articles/longest-valid-parentheses)|[📜](.././solutions/32.%20Longest%20Valid%20Parentheses.md)|[python](.././python/32.%20Longest%20Valid%20Parentheses.py)|
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |❤️||[📜](.././solutions/44.%20Wildcard%20Matching.md)|[python](.././python/44.%20Wildcard%20Matching.py)|
-|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |💚||||
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |💚||[📜](.././solutions/53.%20Maximum%20Subarray.md)|[python](.././python/53.%20Maximum%20Subarray.py)|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths) |🧡||||
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |🧡||||
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |🧡|[💡](https://leetcode.com/articles/minimum-path-sum)|[📜](.././solutions/64.%20Minimum%20Path%20Sum.md)|[python](.././python/64.%20Minimum%20Path%20Sum.py)|
