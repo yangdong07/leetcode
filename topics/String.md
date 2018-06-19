@@ -20,7 +20,7 @@
 |38|[Count and Say](https://leetcode.com/problems/count-and-say) |💚||[📜](.././solutions/38.%20Count%20and%20Say.md)|[python](.././python/38.%20Count%20and%20Say.py)|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings) |🧡||[📜](.././solutions/43.%20Multiply%20Strings.md)|[python](.././python/43.%20Multiply%20Strings.py)|
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |❤️||[📜](.././solutions/44.%20Wildcard%20Matching.md)|[python](.././python/44.%20Wildcard%20Matching.py)|
-|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams) |🧡|[💡](https://leetcode.com/articles/group-anagrams)|||
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams) |🧡|[💡](https://leetcode.com/articles/group-anagrams)|[📜](.././solutions/49.%20Group%20Anagrams.md)|[python](.././python/49.%20Group%20Anagrams.py)|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word) |💚||||
 |65|[Valid Number](https://leetcode.com/problems/valid-number) |❤️||||
 |67|[Add Binary](https://leetcode.com/problems/add-binary) |💚||||

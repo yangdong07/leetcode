@@ -9,7 +9,7 @@
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words) |❤️||[📜](.././solutions/30.%20Substring%20with%20Concatenation%20of%20All%20Words.md)|[python](.././python/30.%20Substring%20with%20Concatenation%20of%20All%20Words.py)|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku) |🧡||[📜](.././solutions/36.%20Valid%20Sudoku.md)|[python](.././python/36.%20Valid%20Sudoku.py)|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |❤️||[📜](.././solutions/37.%20Sudoku%20Solver.md)|[python](.././python/37.%20Sudoku%20Solver.py)|
-|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams) |🧡|[💡](https://leetcode.com/articles/group-anagrams)|||
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams) |🧡|[💡](https://leetcode.com/articles/group-anagrams)|[📜](.././solutions/49.%20Group%20Anagrams.md)|[python](.././python/49.%20Group%20Anagrams.py)|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |❤️||||
 |85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) |❤️||||
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) |🧡|[💡](https://leetcode.com/articles/binary-tree-inorder-traversal)|||
