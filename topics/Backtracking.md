@@ -12,7 +12,7 @@
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |❤️||[📜](.././solutions/44.%20Wildcard%20Matching.md)|[python](.././python/44.%20Wildcard%20Matching.py)|
 |46|[Permutations](https://leetcode.com/problems/permutations) |🧡||[📜](.././solutions/46.%20Permutations.md)|[python](.././python/46.%20Permutations.py)|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii) |🧡||[📜](.././solutions/47.%20Permutations%20II.md)|[python](.././python/47.%20Permutations%20II.py)|
-|51|[N-Queens](https://leetcode.com/problems/n-queens) |❤️||||
+|51|[N-Queens](https://leetcode.com/problems/n-queens) |❤️||[📜](.././solutions/51.%20N-Queens.md)|[python](.././python/51.%20N-Queens.py)|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii) |❤️||||
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence) |🧡||||
 |77|[Combinations](https://leetcode.com/problems/combinations) |🧡||||
