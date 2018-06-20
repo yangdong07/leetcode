@@ -26,7 +26,7 @@
 |55|[Jump Game](https://leetcode.com/problems/jump-game) |🧡|[💡](https://leetcode.com/articles/jump-game)|[📜](.././solutions/55.%20Jump%20Game.md)|[python](.././python/55.%20Jump%20Game.py)|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals) |🧡|[💡](https://leetcode.com/articles/merge-intervals)|[📜](.././solutions/56.%20Merge%20Intervals.md)|[python](.././python/56.%20Merge%20Intervals.py)|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval) |❤️||[📜](.././solutions/57.%20Insert%20Interval.md)|[python](.././python/57.%20Insert%20Interval.py)|
-|59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |🧡||||
+|59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |🧡||[📜](.././solutions/59.%20Spiral%20Matrix%20II.md)|[python](.././python/59.%20Spiral%20Matrix%20II.py)|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths) |🧡||||
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |🧡||||
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |🧡|[💡](https://leetcode.com/articles/minimum-path-sum)|[📜](.././solutions/64.%20Minimum%20Path%20Sum.md)|[python](.././python/64.%20Minimum%20Path%20Sum.py)|
