@@ -21,7 +21,7 @@
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings) |🧡||[📜](.././solutions/43.%20Multiply%20Strings.md)|[python](.././python/43.%20Multiply%20Strings.py)|
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |❤️||[📜](.././solutions/44.%20Wildcard%20Matching.md)|[python](.././python/44.%20Wildcard%20Matching.py)|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams) |🧡|[💡](https://leetcode.com/articles/group-anagrams)|[📜](.././solutions/49.%20Group%20Anagrams.md)|[python](.././python/49.%20Group%20Anagrams.py)|
-|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word) |💚||||
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word) |💚||[📜](.././solutions/58.%20Length%20of%20Last%20Word.md)|[python](.././python/58.%20Length%20of%20Last%20Word.py)|
 |65|[Valid Number](https://leetcode.com/problems/valid-number) |❤️||||
 |67|[Add Binary](https://leetcode.com/problems/add-binary) |💚||||
 |68|[Text Justification](https://leetcode.com/problems/text-justification) |❤️||||
