@@ -30,7 +30,7 @@
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths) |🧡||[📜](.././solutions/62.%20Unique%20Paths.md)|[python](.././python/62.%20Unique%20Paths.py)|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |🧡||[📜](.././solutions/63.%20Unique%20Paths%20II.md)|[python](.././python/63.%20Unique%20Paths%20II.py)|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |🧡|[💡](https://leetcode.com/articles/minimum-path-sum)|[📜](.././solutions/64.%20Minimum%20Path%20Sum.md)|[python](.././python/64.%20Minimum%20Path%20Sum.py)|
-|66|[Plus One](https://leetcode.com/problems/plus-one) |💚||||
+|66|[Plus One](https://leetcode.com/problems/plus-one) |💚||[📜](.././solutions/66.%20Plus%20One.md)|[python](.././python/66.%20Plus%20One.py)|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) |🧡||||
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) |🧡||||
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors) |🧡||||

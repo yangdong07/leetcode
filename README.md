@@ -3,7 +3,7 @@
 
 |Topic|Total|Solved|Progress|
 |-----|-----|------|--------:|
-|[Array](./topics/Array.md)|131|23|17.56 %|
+|[Array](./topics/Array.md)|131|24|18.32 %|
 |[Backtracking](./topics/Backtracking.md)|37|11|29.73 %|
 |[Binary Indexed Tree](./topics/Binary%20Indexed%20Tree.md)|5|0| 0.00 %|
 |[Binary Search](./topics/Binary%20Search.md)|48|6|12.50 %|
@@ -21,7 +21,7 @@
 |[Hash Table](./topics/Hash%20Table.md)|83|6| 7.23 %|
 |[Heap](./topics/Heap.md)|26|1| 3.85 %|
 |[Linked List](./topics/Linked%20List.md)|29|6|20.69 %|
-|[Math](./topics/Math.md)|91|9| 9.89 %|
+|[Math](./topics/Math.md)|91|10|10.99 %|
 |[Memoization](./topics/Memoization.md)|1|0| 0.00 %|
 |[Minimax](./topics/Minimax.md)|3|0| 0.00 %|
 |[Queue](./topics/Queue.md)|5|0| 0.00 %|
@@ -37,4 +37,4 @@
 |[Two Pointers](./topics/Two%20Pointers.md)|42|7|16.67 %|
 |[Union Find](./topics/Union%20Find.md)|14|0| 0.00 %|
 |[other](./topics/other.md)|86|0| 0.00 %|
-|Total|800|58|7.25 %|
+|Total|800|59|7.38 %|
