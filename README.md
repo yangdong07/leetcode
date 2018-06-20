@@ -3,7 +3,7 @@
 
 |Topic|Total|Solved|Progress|
 |-----|-----|------|--------:|
-|[Array](./topics/Array.md)|131|22|16.79 %|
+|[Array](./topics/Array.md)|131|23|17.56 %|
 |[Backtracking](./topics/Backtracking.md)|37|11|29.73 %|
 |[Binary Indexed Tree](./topics/Binary%20Indexed%20Tree.md)|5|0| 0.00 %|
 |[Binary Search](./topics/Binary%20Search.md)|48|6|12.50 %|
@@ -14,7 +14,7 @@
 |[Depth-first Search](./topics/Depth-first%20Search.md)|75|0| 0.00 %|
 |[Design](./topics/Design.md)|33|0| 0.00 %|
 |[Divide and Conquer](./topics/Divide%20and%20Conquer.md)|14|3|21.43 %|
-|[Dynamic Programming](./topics/Dynamic%20Programming.md)|106|8| 7.55 %|
+|[Dynamic Programming](./topics/Dynamic%20Programming.md)|106|9| 8.49 %|
 |[Geometry](./topics/Geometry.md)|1|0| 0.00 %|
 |[Graph](./topics/Graph.md)|16|0| 0.00 %|
 |[Greedy](./topics/Greedy.md)|32|3| 9.38 %|
@@ -37,4 +37,4 @@
 |[Two Pointers](./topics/Two%20Pointers.md)|42|7|16.67 %|
 |[Union Find](./topics/Union%20Find.md)|14|0| 0.00 %|
 |[other](./topics/other.md)|86|0| 0.00 %|
-|Total|800|56|7.00 %|
+|Total|800|57|7.12 %|

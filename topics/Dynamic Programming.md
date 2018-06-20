@@ -9,7 +9,7 @@
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching) |❤️||[📜](.././solutions/44.%20Wildcard%20Matching.md)|[python](.././python/44.%20Wildcard%20Matching.py)|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |💚||[📜](.././solutions/53.%20Maximum%20Subarray.md)|[python](.././python/53.%20Maximum%20Subarray.py)|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths) |🧡||[📜](.././solutions/62.%20Unique%20Paths.md)|[python](.././python/62.%20Unique%20Paths.py)|
-|63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |🧡||||
+|63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |🧡||[📜](.././solutions/63.%20Unique%20Paths%20II.md)|[python](.././python/63.%20Unique%20Paths%20II.py)|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |🧡|[💡](https://leetcode.com/articles/minimum-path-sum)|[📜](.././solutions/64.%20Minimum%20Path%20Sum.md)|[python](.././python/64.%20Minimum%20Path%20Sum.py)|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs) |💚|[💡](https://leetcode.com/articles/climbing-stairs)|||
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance) |❤️||[📜](.././solutions/72.%20Edit%20Distance.md)|[python](.././python/72.%20Edit%20Distance.py)|
