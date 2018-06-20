@@ -9,7 +9,7 @@
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) |❤️|[💡](https://leetcode.com/articles/merge-k-sorted-list)|[📜](.././solutions/23.%20Merge%20k%20Sorted%20Lists.md)||
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) |🧡||[📜](.././solutions/24.%20Swap%20Nodes%20in%20Pairs.md)||
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) |❤️||[📜](.././solutions/25.%20Reverse%20Nodes%20in%20k-Group.md)|[python](.././python/25.%20Reverse%20Nodes%20in%20k-Group.py)|
-|61|[Rotate List](https://leetcode.com/problems/rotate-list) |🧡||||
+|61|[Rotate List](https://leetcode.com/problems/rotate-list) |🧡||[📜](.././solutions/61.%20Rotate%20List.md)|[python](.././python/61.%20Rotate%20List.py)|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) |🧡||||
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) |💚|[💡](https://leetcode.com/articles/remove-duplicates-sorted-list)|||
 |86|[Partition List](https://leetcode.com/problems/partition-list) |🧡||||
