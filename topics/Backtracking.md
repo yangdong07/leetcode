@@ -14,7 +14,7 @@
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii) |🧡||[📜](.././solutions/47.%20Permutations%20II.md)|[python](.././python/47.%20Permutations%20II.py)|
 |51|[N-Queens](https://leetcode.com/problems/n-queens) |❤️||[📜](.././solutions/51.%20N-Queens.md)|[python](.././python/51.%20N-Queens.py)|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii) |❤️||[📜](.././solutions/52.%20N-Queens%20II.md)|[python](.././python/52.%20N-Queens%20II.py)|
-|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence) |🧡||||
+|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence) |🧡||[📜](.././solutions/60.%20Permutation%20Sequence.md)|[python](.././python/60.%20Permutation%20Sequence.py)|
 |77|[Combinations](https://leetcode.com/problems/combinations) |🧡||||
 |78|[Subsets](https://leetcode.com/problems/subsets) |🧡||||
 |79|[Word Search](https://leetcode.com/problems/word-search) |🧡||||
