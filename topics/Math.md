@@ -13,7 +13,7 @@
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings) |🧡||[📜](.././solutions/43.%20Multiply%20Strings.md)|[python](.././python/43.%20Multiply%20Strings.py)|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n) |🧡|[💡](https://leetcode.com/articles/powx-n)|[📜](.././solutions/50.%20Pow%28x%2C%20n%29.md)|[python](.././python/50.%20Pow%28x%2C%20n%29.py)|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence) |🧡||[📜](.././solutions/60.%20Permutation%20Sequence.md)|[python](.././python/60.%20Permutation%20Sequence.py)|
-|65|[Valid Number](https://leetcode.com/problems/valid-number) |❤️||||
+|65|[Valid Number](https://leetcode.com/problems/valid-number) |❤️||[📜](.././solutions/65.%20Valid%20Number.md)|[python](.././python/65.%20Valid%20Number.py)|
 |66|[Plus One](https://leetcode.com/problems/plus-one) |💚||||
 |67|[Add Binary](https://leetcode.com/problems/add-binary) |💚||||
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx) |💚||||
