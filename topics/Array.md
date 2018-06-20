@@ -24,7 +24,7 @@
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |💚||[📜](.././solutions/53.%20Maximum%20Subarray.md)|[python](.././python/53.%20Maximum%20Subarray.py)|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |🧡|[💡](https://leetcode.com/articles/spiral-matrix)|[📜](.././solutions/54.%20Spiral%20Matrix.md)|[python](.././python/54.%20Spiral%20Matrix.py)|
 |55|[Jump Game](https://leetcode.com/problems/jump-game) |🧡|[💡](https://leetcode.com/articles/jump-game)|[📜](.././solutions/55.%20Jump%20Game.md)|[python](.././python/55.%20Jump%20Game.py)|
-|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals) |🧡|[💡](https://leetcode.com/articles/merge-intervals)|||
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals) |🧡|[💡](https://leetcode.com/articles/merge-intervals)|[📜](.././solutions/56.%20Merge%20Intervals.md)|[python](.././python/56.%20Merge%20Intervals.py)|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval) |❤️||||
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) |🧡||||
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths) |🧡||||

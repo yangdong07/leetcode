@@ -3,7 +3,7 @@
 
 |#|Title|Difficulty|Article|Solution|Code|
 |:---:|---|:---:|:---:|:---:|:---:|
-|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals) |🧡|[💡](https://leetcode.com/articles/merge-intervals)|||
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals) |🧡|[💡](https://leetcode.com/articles/merge-intervals)|[📜](.././solutions/56.%20Merge%20Intervals.md)|[python](.././python/56.%20Merge%20Intervals.py)|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval) |❤️||||
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors) |🧡||||
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list) |🧡||||
