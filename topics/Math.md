@@ -16,7 +16,7 @@
 |65|[Valid Number](https://leetcode.com/problems/valid-number) |❤️||[📜](.././solutions/65.%20Valid%20Number.md)|[python](.././python/65.%20Valid%20Number.py)|
 |66|[Plus One](https://leetcode.com/problems/plus-one) |💚||[📜](.././solutions/66.%20Plus%20One.md)|[python](.././python/66.%20Plus%20One.py)|
 |67|[Add Binary](https://leetcode.com/problems/add-binary) |💚||[📜](.././solutions/67.%20Add%20Binary.md)|[python](.././python/67.%20Add%20Binary.py)|
-|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx) |💚||||
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx) |💚||[📜](.././solutions/69.%20Sqrt%28x%29.md)|[python](.././python/69.%20Sqrt%28x%29.py)|
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line) |❤️||||
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal) |🧡|[💡](https://leetcode.com/articles/fraction-recurring-decimal)|||
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) |💚||||
