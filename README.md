@@ -29,12 +29,12 @@
 |[Reservoir Sampling](./topics/Reservoir%20Sampling.md)|2|0| 0.00 %|
 |[Segment Tree](./topics/Segment%20Tree.md)|8|0| 0.00 %|
 |[Sort](./topics/Sort.md)|19|2|10.53 %|
-|[Stack](./topics/Stack.md)|35|2| 5.71 %|
-|[String](./topics/String.md)|103|18|17.48 %|
+|[Stack](./topics/Stack.md)|35|3| 8.57 %|
+|[String](./topics/String.md)|103|19|18.45 %|
 |[Topological Sort](./topics/Topological%20Sort.md)|5|0| 0.00 %|
 |[Tree](./topics/Tree.md)|79|0| 0.00 %|
 |[Trie](./topics/Trie.md)|14|0| 0.00 %|
 |[Two Pointers](./topics/Two%20Pointers.md)|42|7|16.67 %|
 |[Union Find](./topics/Union%20Find.md)|14|0| 0.00 %|
 |[other](./topics/other.md)|86|0| 0.00 %|
-|Total|800|63|7.88 %|
+|Total|800|64|8.00 %|

@@ -5,7 +5,7 @@
 |:---:|---|:---:|:---:|:---:|:---:|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |💚||||
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |❤️|[💡](https://leetcode.com/articles/trapping-rain-water)|[📜](.././solutions/42.%20Trapping%20Rain%20Water.md)|[python](.././python/42.%20Trapping%20Rain%20Water.py)|
-|71|[Simplify Path](https://leetcode.com/problems/simplify-path) |🧡||||
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path) |🧡||[📜](.././solutions/71.%20Simplify%20Path.md)|[python](.././python/71.%20Simplify%20Path.py)|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) |❤️|[💡](https://leetcode.com/articles/largest-rectangle-histogram)|||
 |85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) |❤️||||
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) |🧡|[💡](https://leetcode.com/articles/binary-tree-inorder-traversal)|||
