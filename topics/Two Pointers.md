@@ -15,7 +15,7 @@
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words) |❤️||[📜](.././solutions/30.%20Substring%20with%20Concatenation%20of%20All%20Words.md)|[python](.././python/30.%20Substring%20with%20Concatenation%20of%20All%20Words.py)|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |❤️|[💡](https://leetcode.com/articles/trapping-rain-water)|[📜](.././solutions/42.%20Trapping%20Rain%20Water.md)|[python](.././python/42.%20Trapping%20Rain%20Water.py)|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list) |🧡||[📜](.././solutions/61.%20Rotate%20List.md)|[python](.././python/61.%20Rotate%20List.py)|
-|75|[Sort Colors](https://leetcode.com/problems/sort-colors) |🧡||||
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors) |🧡||[📜](.././solutions/75.%20Sort%20Colors.md)|[python](.././python/75.%20Sort%20Colors.py)|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |❤️||||
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) |🧡||||
 |86|[Partition List](https://leetcode.com/problems/partition-list) |🧡||||

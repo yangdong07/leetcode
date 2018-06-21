@@ -3,7 +3,7 @@
 
 |Topic|Total|Solved|Progress|
 |-----|-----|------|--------:|
-|[Array](./topics/Array.md)|131|26|19.85 %|
+|[Array](./topics/Array.md)|131|27|20.61 %|
 |[Backtracking](./topics/Backtracking.md)|37|11|29.73 %|
 |[Binary Indexed Tree](./topics/Binary%20Indexed%20Tree.md)|5|0| 0.00 %|
 |[Binary Search](./topics/Binary%20Search.md)|48|8|16.67 %|
@@ -28,13 +28,13 @@
 |[Recursion](./topics/Recursion.md)|10|0| 0.00 %|
 |[Reservoir Sampling](./topics/Reservoir%20Sampling.md)|2|0| 0.00 %|
 |[Segment Tree](./topics/Segment%20Tree.md)|8|0| 0.00 %|
-|[Sort](./topics/Sort.md)|19|2|10.53 %|
+|[Sort](./topics/Sort.md)|19|3|15.79 %|
 |[Stack](./topics/Stack.md)|35|3| 8.57 %|
 |[String](./topics/String.md)|103|19|18.45 %|
 |[Topological Sort](./topics/Topological%20Sort.md)|5|0| 0.00 %|
 |[Tree](./topics/Tree.md)|79|0| 0.00 %|
 |[Trie](./topics/Trie.md)|14|0| 0.00 %|
-|[Two Pointers](./topics/Two%20Pointers.md)|42|7|16.67 %|
+|[Two Pointers](./topics/Two%20Pointers.md)|42|8|19.05 %|
 |[Union Find](./topics/Union%20Find.md)|14|0| 0.00 %|
 |[other](./topics/other.md)|86|0| 0.00 %|
-|Total|800|66|8.25 %|
+|Total|800|67|8.38 %|

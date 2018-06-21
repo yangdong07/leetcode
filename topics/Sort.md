@@ -5,7 +5,7 @@
 |:---:|---|:---:|:---:|:---:|:---:|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals) |🧡|[💡](https://leetcode.com/articles/merge-intervals)|[📜](.././solutions/56.%20Merge%20Intervals.md)|[python](.././python/56.%20Merge%20Intervals.py)|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval) |❤️||[📜](.././solutions/57.%20Insert%20Interval.md)|[python](.././python/57.%20Insert%20Interval.py)|
-|75|[Sort Colors](https://leetcode.com/problems/sort-colors) |🧡||||
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors) |🧡||[📜](.././solutions/75.%20Sort%20Colors.md)|[python](.././python/75.%20Sort%20Colors.py)|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list) |🧡||||
 |148|[Sort List](https://leetcode.com/problems/sort-list) |🧡||||
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap) |❤️|[💡](https://leetcode.com/articles/maximum-gap)|||
