@@ -32,7 +32,7 @@
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |🧡|[💡](https://leetcode.com/articles/minimum-path-sum)|[📜](.././solutions/64.%20Minimum%20Path%20Sum.md)|[python](.././python/64.%20Minimum%20Path%20Sum.py)|
 |66|[Plus One](https://leetcode.com/problems/plus-one) |💚||[📜](.././solutions/66.%20Plus%20One.md)|[python](.././python/66.%20Plus%20One.py)|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) |🧡||[📜](.././solutions/73.%20Set%20Matrix%20Zeroes.md)|[python](.././python/73.%20Set%20Matrix%20Zeroes.py)|
-|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) |🧡||||
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) |🧡||[📜](.././solutions/74.%20Search%20a%202D%20Matrix.md)|[python](.././python/74.%20Search%20a%202D%20Matrix.py)|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors) |🧡||||
 |78|[Subsets](https://leetcode.com/problems/subsets) |🧡||||
 |79|[Word Search](https://leetcode.com/problems/word-search) |🧡||||
