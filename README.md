@@ -14,7 +14,7 @@
 |[Depth-first Search](./topics/Depth-first%20Search.md)|75|0| 0.00 %|
 |[Design](./topics/Design.md)|33|0| 0.00 %|
 |[Divide and Conquer](./topics/Divide%20and%20Conquer.md)|14|3|21.43 %|
-|[Dynamic Programming](./topics/Dynamic%20Programming.md)|106|9| 8.49 %|
+|[Dynamic Programming](./topics/Dynamic%20Programming.md)|106|10| 9.43 %|
 |[Geometry](./topics/Geometry.md)|1|0| 0.00 %|
 |[Graph](./topics/Graph.md)|16|0| 0.00 %|
 |[Greedy](./topics/Greedy.md)|32|3| 9.38 %|
@@ -37,4 +37,4 @@
 |[Two Pointers](./topics/Two%20Pointers.md)|42|7|16.67 %|
 |[Union Find](./topics/Union%20Find.md)|14|0| 0.00 %|
 |[other](./topics/other.md)|86|0| 0.00 %|
-|Total|800|62|7.75 %|
+|Total|800|63|7.88 %|

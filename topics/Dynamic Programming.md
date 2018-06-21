@@ -11,7 +11,7 @@
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths) |🧡||[📜](.././solutions/62.%20Unique%20Paths.md)|[python](.././python/62.%20Unique%20Paths.py)|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii) |🧡||[📜](.././solutions/63.%20Unique%20Paths%20II.md)|[python](.././python/63.%20Unique%20Paths%20II.py)|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |🧡|[💡](https://leetcode.com/articles/minimum-path-sum)|[📜](.././solutions/64.%20Minimum%20Path%20Sum.md)|[python](.././python/64.%20Minimum%20Path%20Sum.py)|
-|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs) |💚|[💡](https://leetcode.com/articles/climbing-stairs)|||
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs) |💚|[💡](https://leetcode.com/articles/climbing-stairs)|[📜](.././solutions/70.%20Climbing%20Stairs.md)|[python](.././python/70.%20Climbing%20Stairs.py)|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance) |❤️||[📜](.././solutions/72.%20Edit%20Distance.md)|[python](.././python/72.%20Edit%20Distance.py)|
 |85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) |❤️||||
 |87|[Scramble String](https://leetcode.com/problems/scramble-string) |❤️||||
