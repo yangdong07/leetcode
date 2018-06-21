@@ -30,11 +30,11 @@
 |[Segment Tree](./topics/Segment%20Tree.md)|8|0| 0.00 %|
 |[Sort](./topics/Sort.md)|19|2|10.53 %|
 |[Stack](./topics/Stack.md)|35|2| 5.71 %|
-|[String](./topics/String.md)|103|17|16.50 %|
+|[String](./topics/String.md)|103|18|17.48 %|
 |[Topological Sort](./topics/Topological%20Sort.md)|5|0| 0.00 %|
 |[Tree](./topics/Tree.md)|79|0| 0.00 %|
 |[Trie](./topics/Trie.md)|14|0| 0.00 %|
 |[Two Pointers](./topics/Two%20Pointers.md)|42|7|16.67 %|
 |[Union Find](./topics/Union%20Find.md)|14|0| 0.00 %|
 |[other](./topics/other.md)|86|0| 0.00 %|
-|Total|800|60|7.50 %|
+|Total|800|61|7.62 %|

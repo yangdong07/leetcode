@@ -24,7 +24,7 @@
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word) |💚||[📜](.././solutions/58.%20Length%20of%20Last%20Word.md)|[python](.././python/58.%20Length%20of%20Last%20Word.py)|
 |65|[Valid Number](https://leetcode.com/problems/valid-number) |❤️||[📜](.././solutions/65.%20Valid%20Number.md)|[python](.././python/65.%20Valid%20Number.py)|
 |67|[Add Binary](https://leetcode.com/problems/add-binary) |💚||[📜](.././solutions/67.%20Add%20Binary.md)|[python](.././python/67.%20Add%20Binary.py)|
-|68|[Text Justification](https://leetcode.com/problems/text-justification) |❤️||||
+|68|[Text Justification](https://leetcode.com/problems/text-justification) |❤️||[📜](.././solutions/68.%20Text%20Justification.md)|[python](.././python/68.%20Text%20Justification.py)|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path) |🧡||||
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance) |❤️||[📜](.././solutions/72.%20Edit%20Distance.md)|[python](.././python/72.%20Edit%20Distance.py)|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |❤️||||
