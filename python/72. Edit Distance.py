@@ -16,19 +16,20 @@ class Solution:
         if m == 0:
             return n
 
-        dp = list(range(m+1))
+        dp = list(range(m + 1))
         for i in range(n):
-            prev = i
+            prev = i  # left up corner
             dp[0] = i + 1
             for j in range(m):
-                cache = dp[j+1]
+                cache = dp[j + 1]
                 if word1[i] == word2[j]:
-                    dp[j+1] = prev
+                    dp[j + 1] = prev
                 else:
-                    dp[j+1] = min(prev, dp[j], cache) + 1
+                    dp[j + 1] = min(prev, dp[j], cache) + 1
                 prev = cache
 
         return dp[m]
 
 # Solution().minDistance('abc', 'efg')
-assert Solution().minDistance('a', 'a') == 0
+Solution().minDistance('a', 'a')
+
