@@ -27,7 +27,7 @@
 |68|[Text Justification](https://leetcode.com/problems/text-justification) |❤️||[📜](.././solutions/68.%20Text%20Justification.md)|[python](.././python/68.%20Text%20Justification.py)|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path) |🧡||[📜](.././solutions/71.%20Simplify%20Path.md)|[python](.././python/71.%20Simplify%20Path.py)|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance) |❤️||[📜](.././solutions/72.%20Edit%20Distance.md)|[python](.././python/72.%20Edit%20Distance.py)|
-|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |❤️||||
+|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |❤️||[📜](.././solutions/76.%20Minimum%20Window%20Substring.md)|[python](.././python/76.%20Minimum%20Window%20Substring.py)|
 |87|[Scramble String](https://leetcode.com/problems/scramble-string) |❤️||||
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways) |🧡||||
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) |🧡||||

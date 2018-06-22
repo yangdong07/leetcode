@@ -16,7 +16,7 @@
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |❤️|[💡](https://leetcode.com/articles/trapping-rain-water)|[📜](.././solutions/42.%20Trapping%20Rain%20Water.md)|[python](.././python/42.%20Trapping%20Rain%20Water.py)|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list) |🧡||[📜](.././solutions/61.%20Rotate%20List.md)|[python](.././python/61.%20Rotate%20List.py)|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors) |🧡||[📜](.././solutions/75.%20Sort%20Colors.md)|[python](.././python/75.%20Sort%20Colors.py)|
-|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |❤️||||
+|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |❤️||[📜](.././solutions/76.%20Minimum%20Window%20Substring.md)|[python](.././python/76.%20Minimum%20Window%20Substring.py)|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) |🧡||||
 |86|[Partition List](https://leetcode.com/problems/partition-list) |🧡||||
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) |💚||||

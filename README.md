@@ -18,7 +18,7 @@
 |[Geometry](./topics/Geometry.md)|1|0| 0.00 %|
 |[Graph](./topics/Graph.md)|16|0| 0.00 %|
 |[Greedy](./topics/Greedy.md)|32|3| 9.38 %|
-|[Hash Table](./topics/Hash%20Table.md)|83|6| 7.23 %|
+|[Hash Table](./topics/Hash%20Table.md)|83|7| 8.43 %|
 |[Heap](./topics/Heap.md)|26|1| 3.85 %|
 |[Linked List](./topics/Linked%20List.md)|29|6|20.69 %|
 |[Math](./topics/Math.md)|91|12|13.19 %|
@@ -30,11 +30,11 @@
 |[Segment Tree](./topics/Segment%20Tree.md)|8|0| 0.00 %|
 |[Sort](./topics/Sort.md)|19|3|15.79 %|
 |[Stack](./topics/Stack.md)|35|3| 8.57 %|
-|[String](./topics/String.md)|103|19|18.45 %|
+|[String](./topics/String.md)|103|20|19.42 %|
 |[Topological Sort](./topics/Topological%20Sort.md)|5|0| 0.00 %|
 |[Tree](./topics/Tree.md)|79|0| 0.00 %|
 |[Trie](./topics/Trie.md)|14|0| 0.00 %|
-|[Two Pointers](./topics/Two%20Pointers.md)|42|8|19.05 %|
+|[Two Pointers](./topics/Two%20Pointers.md)|42|9|21.43 %|
 |[Union Find](./topics/Union%20Find.md)|14|0| 0.00 %|
 |[other](./topics/other.md)|86|0| 0.00 %|
-|Total|800|67|8.38 %|
+|Total|800|68|8.50 %|

@@ -10,7 +10,7 @@
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku) |🧡||[📜](.././solutions/36.%20Valid%20Sudoku.md)|[python](.././python/36.%20Valid%20Sudoku.py)|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver) |❤️||[📜](.././solutions/37.%20Sudoku%20Solver.md)|[python](.././python/37.%20Sudoku%20Solver.py)|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams) |🧡|[💡](https://leetcode.com/articles/group-anagrams)|[📜](.././solutions/49.%20Group%20Anagrams.md)|[python](.././python/49.%20Group%20Anagrams.py)|
-|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |❤️||||
+|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |❤️||[📜](.././solutions/76.%20Minimum%20Window%20Substring.md)|[python](.././python/76.%20Minimum%20Window%20Substring.py)|
 |85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) |❤️||||
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) |🧡|[💡](https://leetcode.com/articles/binary-tree-inorder-traversal)|||
 |136|[Single Number](https://leetcode.com/problems/single-number) |💚|[💡](https://leetcode.com/articles/single-number)|||
