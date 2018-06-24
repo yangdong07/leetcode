@@ -35,7 +35,7 @@
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) |🧡||[📜](.././solutions/74.%20Search%20a%202D%20Matrix.md)|[python](.././python/74.%20Search%20a%202D%20Matrix.py)|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors) |🧡||[📜](.././solutions/75.%20Sort%20Colors.md)|[python](.././python/75.%20Sort%20Colors.py)|
 |78|[Subsets](https://leetcode.com/problems/subsets) |🧡||[📜](.././solutions/78.%20Subsets.md)|[python](.././python/78.%20Subsets.py)|
-|79|[Word Search](https://leetcode.com/problems/word-search) |🧡||||
+|79|[Word Search](https://leetcode.com/problems/word-search) |🧡||[📜](.././solutions/79.%20Word%20Search.md)|[python](.././python/79.%20Word%20Search.py)|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) |🧡||||
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) |🧡||||
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) |❤️|[💡](https://leetcode.com/articles/largest-rectangle-histogram)|||
