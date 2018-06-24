@@ -34,3 +34,4 @@
 |756|[Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix) |🧡|[💡](https://leetcode.com/articles/pyramid-transition-matrix)|||
 |762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation) |💚|[💡](https://leetcode.com/articles/prime-number-of-set-bits-in-binary-representation)|||
 |784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation) |💚|[💡](https://leetcode.com/articles/letter-case-permutation)|||
+

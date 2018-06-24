@@ -302,6 +302,7 @@ def generate_tables_by_tag():
         with open(file_path, 'w') as f:
             f.write('\n## %s\n\n' % topic)
             f.write(generate_table(tag_problems[topic], solutions, code_links))
+            f.write('\n\n')
 
 
 def generate_readme():

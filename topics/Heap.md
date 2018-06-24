@@ -29,3 +29,4 @@
 |786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction) |❤️|[💡](https://leetcode.com/articles/k-th-smallest-prime-fraction)|||
 |787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops) |🧡|[💡](https://leetcode.com/articles/cheapest-flights-within-k-stops)|||
 |818|[Race Car](https://leetcode.com/problems/race-car) |❤️|[💡](https://leetcode.com/articles/race-car)|||
+

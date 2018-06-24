@@ -89,3 +89,4 @@
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character) |💚|[💡](https://leetcode.com/articles/shortest-distance-to-a-character)|||
 |822|[Card Flipping Game](https://leetcode.com/problems/card-flipping-game) |🧡|[💡](https://leetcode.com/articles/card-flipping-game)|||
 |823|[Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors) |🧡|[💡](https://leetcode.com/articles/binary-trees-with-factors)|||
+

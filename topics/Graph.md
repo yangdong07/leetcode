@@ -19,3 +19,4 @@
 |765|[Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands) |❤️|[💡](https://leetcode.com/articles/couples-holding-hands)|||
 |785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) |🧡|[💡](https://leetcode.com/articles/is-graph-bipartite)|||
 |802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states) |🧡|[💡](https://leetcode.com/articles/find-eventual-safe-states)|||
+

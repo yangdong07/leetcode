@@ -109,3 +109,4 @@
 |808|[Soup Servings](https://leetcode.com/problems/soup-servings) |🧡|[💡](https://leetcode.com/articles/soup-servings)|||
 |813|[Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages) |🧡|[💡](https://leetcode.com/articles/largest-sum-of-averages)|||
 |818|[Race Car](https://leetcode.com/problems/race-car) |❤️|[💡](https://leetcode.com/articles/race-car)|||
+

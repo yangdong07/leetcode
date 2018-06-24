@@ -86,3 +86,4 @@
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) |💚|[💡](https://leetcode.com/articles/jewels-and-stones)|||
 |781|[Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest) |🧡|[💡](https://leetcode.com/articles/rabbits-in-forest)|||
 |811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count) |💚|[💡](https://leetcode.com/articles/subdomain-visit-count)|||
+

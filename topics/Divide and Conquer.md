@@ -17,3 +17,4 @@
 |327|[Count of Range Sum](https://leetcode.com/problems/count-of-range-sum) |❤️||||
 |493|[Reverse Pairs](https://leetcode.com/problems/reverse-pairs) |❤️|[💡](https://leetcode.com/articles/reverse-pairs)|||
 |514|[Freedom Trail](https://leetcode.com/problems/freedom-trail) |❤️||||
+

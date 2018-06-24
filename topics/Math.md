@@ -94,3 +94,4 @@
 |810|[Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game) |❤️|[💡](https://leetcode.com/articles/chalkboard-xor-game)|||
 |812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area) |💚|[💡](https://leetcode.com/articles/largest-triangle-area)|||
 |829|[Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum) |🧡|[💡](https://leetcode.com/articles/consecutive-numbers-sum)|||
+

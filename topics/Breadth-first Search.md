@@ -40,3 +40,4 @@
 |785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) |🧡|[💡](https://leetcode.com/articles/is-graph-bipartite)|||
 |787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops) |🧡|[💡](https://leetcode.com/articles/cheapest-flights-within-k-stops)|||
 |815|[Bus Routes](https://leetcode.com/problems/bus-routes) |❤️|[💡](https://leetcode.com/articles/bus-routes)|||
+

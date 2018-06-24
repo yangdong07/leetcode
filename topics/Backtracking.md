@@ -15,7 +15,7 @@
 |51|[N-Queens](https://leetcode.com/problems/n-queens) |❤️||[📜](.././solutions/51.%20N-Queens.md)|[python](.././python/51.%20N-Queens.py)|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii) |❤️||[📜](.././solutions/52.%20N-Queens%20II.md)|[python](.././python/52.%20N-Queens%20II.py)|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence) |🧡||[📜](.././solutions/60.%20Permutation%20Sequence.md)|[python](.././python/60.%20Permutation%20Sequence.py)|
-|77|[Combinations](https://leetcode.com/problems/combinations) |🧡||||
+|77|[Combinations](https://leetcode.com/problems/combinations) |🧡||[📜](.././solutions/77.%20Combinations.md)|[python](.././python/77.%20Combinations.py)|
 |78|[Subsets](https://leetcode.com/problems/subsets) |🧡||||
 |79|[Word Search](https://leetcode.com/problems/word-search) |🧡||||
 |89|[Gray Code](https://leetcode.com/problems/gray-code) |🧡||||
@@ -40,3 +40,4 @@
 |526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement) |🧡|[💡](https://leetcode.com/articles/beautiful-arrangement)|||
 |691|[Stickers to Spell Word](https://leetcode.com/problems/stickers-to-spell-word) |❤️|[💡](https://leetcode.com/articles/stickers-to-spell-word)|||
 |784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation) |💚|[💡](https://leetcode.com/articles/letter-case-permutation)|||
+

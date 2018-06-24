@@ -36,3 +36,4 @@
 |635|[Design Log Storage System](https://leetcode.com/problems/design-log-storage-system) 🔒|🧡|[💡](https://leetcode.com/articles/design-log-storage)|||
 |642|[Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system) 🔒|❤️|[💡](https://leetcode.com/articles/design-search-autocomplete-system)|||
 |716|[Max Stack](https://leetcode.com/problems/max-stack) 🔒|❤️|[💡](https://leetcode.com/articles/max-stack)|||
+

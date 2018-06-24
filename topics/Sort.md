@@ -22,3 +22,4 @@
 |524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting) |🧡|[💡](https://leetcode.com/articles/longest-word-in-dictionary-through-deletion)|||
 |527|[Word Abbreviation](https://leetcode.com/problems/word-abbreviation) 🔒|❤️|[💡](https://leetcode.com/articles/word-abbreviation)|||
 |767|[Reorganize String](https://leetcode.com/problems/reorganize-string) |🧡|[💡](https://leetcode.com/articles/reorganized-string)|||
+

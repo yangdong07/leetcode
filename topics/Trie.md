@@ -17,3 +17,4 @@
 |692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words) |🧡|[💡](https://leetcode.com/articles/top-k-frequent-words)|||
 |720|[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary) |💚|[💡](https://leetcode.com/articles/longest-word-in-dictionary)|||
 |745|[Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search) |❤️|[💡](https://leetcode.com/articles/prefix-and-suffix-search)|||
+

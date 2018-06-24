@@ -45,3 +45,4 @@
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels) |🧡|[💡](https://leetcode.com/articles/partition-labels)|||
 |826|[Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work) |🧡|[💡](https://leetcode.com/articles/most-profit-assigning-work)|||
 |828|[Unique Letter String](https://leetcode.com/problems/unique-letter-string) |❤️|[💡](https://leetcode.com/articles/unique-letter-string)|||
+

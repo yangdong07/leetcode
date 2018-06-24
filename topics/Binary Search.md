@@ -51,3 +51,4 @@
 |778|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water) |❤️|[💡](https://leetcode.com/articles/swim-in-rising-water)|||
 |786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction) |❤️|[💡](https://leetcode.com/articles/k-th-smallest-prime-fraction)|||
 |793|[Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function) |❤️|[💡](https://leetcode.com/articles/preimage-size-of-factorial-zeroes-function)|||
+
