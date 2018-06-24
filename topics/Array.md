@@ -34,7 +34,7 @@
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) |🧡||[📜](.././solutions/73.%20Set%20Matrix%20Zeroes.md)|[python](.././python/73.%20Set%20Matrix%20Zeroes.py)|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) |🧡||[📜](.././solutions/74.%20Search%20a%202D%20Matrix.md)|[python](.././python/74.%20Search%20a%202D%20Matrix.py)|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors) |🧡||[📜](.././solutions/75.%20Sort%20Colors.md)|[python](.././python/75.%20Sort%20Colors.py)|
-|78|[Subsets](https://leetcode.com/problems/subsets) |🧡||||
+|78|[Subsets](https://leetcode.com/problems/subsets) |🧡||[📜](.././solutions/78.%20Subsets.md)|[python](.././python/78.%20Subsets.py)|
 |79|[Word Search](https://leetcode.com/problems/word-search) |🧡||||
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) |🧡||||
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) |🧡||||

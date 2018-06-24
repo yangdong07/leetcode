@@ -3,7 +3,7 @@
 
 |#|Title|Difficulty|Article|Solution|Code|
 |:---:|---|:---:|:---:|:---:|:---:|
-|78|[Subsets](https://leetcode.com/problems/subsets) |🧡||||
+|78|[Subsets](https://leetcode.com/problems/subsets) |🧡||[📜](.././solutions/78.%20Subsets.md)|[python](.././python/78.%20Subsets.py)|
 |136|[Single Number](https://leetcode.com/problems/single-number) |💚|[💡](https://leetcode.com/articles/single-number)|||
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii) |🧡||||
 |169|[Majority Element](https://leetcode.com/problems/majority-element) |💚|[💡](https://leetcode.com/articles/majority-element)|||

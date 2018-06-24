@@ -86,7 +86,24 @@ class Solution5:
     def combine(self, n, k):
         return list(combinations(range(1, n + 1), k))
 
-Solution = Solution5
+
+class Solution6(object):
+    def combine(self, n, k):
+        ans = []
+        stack = list(range(1, k + 1))
+        choice = k + 1
+        while True:
+            l = len(stack)
+            if l == k:
+                ans.append(stack[:])       # find a combination
+            if l == k or choice > n - k + l + 1:  # go back if choice + k - l - 1 > n;
+                if not stack:
+                    return ans
+                choice = stack.pop() + 1
+            else:
+                stack.extend(range(choice, choice + k - l))       # append choice
+
+Solution = Solution6
 
 print(Solution().combine(4, 2))
 print(Solution().combine(4, 4))
