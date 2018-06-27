@@ -48,18 +48,18 @@ class Solution2:
 
         dummy = ListNode(None)
         distinct = dummy
-        dummy.next = current = head
+        dummy.next = p = head
 
-        while current:
-            val = current.val
-            if current.next and current.next.val == val:
-                current = current.next.next
-                while current and current.val == val:
-                    current = current.next
+        while p:
+            if p.next and p.next.val == p.val:
+                val = p.val
+                p = p.next.next
+                while p and p.val == val:
+                    p = p.next
             else:
-                distinct.next = current
-                distinct = current
-                current = current.next
+                distinct.next = p
+                distinct = p
+                p = p.next
 
         distinct.next = None
         return dummy.next
