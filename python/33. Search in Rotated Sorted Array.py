@@ -54,5 +54,35 @@ class Solution2:
         return lo if target in nums[lo:lo + 1] else -1
 
 
+class Solution3:
+    def search(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: bool
+        """
+        if not nums:
+            return -1
+
+        l, r = 0, len(nums) - 1
+        while l < r:
+            mid = l + (r - l) // 2
+            if nums[mid] == target:
+                return mid
+
+            if nums[mid] < nums[r]:
+                if nums[mid] < target <= nums[r]:
+                    l = mid + 1
+                else:
+                    r = mid - 1
+            elif nums[mid] > nums[r]:
+                if nums[l] <= target < nums[mid]:
+                    r = mid - 1
+                else:
+                    l = mid + 1
+            else:
+                r -= 1
+        return l if nums[l] == target else -1
+
 Solution = Solution1
 print(Solution().search([4, 5, 6, 7, 0, 1, 2], 0))

@@ -3,10 +3,10 @@
 
 |Topic|Total|Solved|Progress|
 |-----|-----|------|--------:|
-|[Array](./topics/Array.md)|131|30|22.90 %|
+|[Array](./topics/Array.md)|131|31|23.66 %|
 |[Backtracking](./topics/Backtracking.md)|37|14|37.84 %|
 |[Binary Indexed Tree](./topics/Binary%20Indexed%20Tree.md)|5|0| 0.00 %|
-|[Binary Search](./topics/Binary%20Search.md)|48|8|16.67 %|
+|[Binary Search](./topics/Binary%20Search.md)|48|9|18.75 %|
 |[Binary Search Tree](./topics/Binary%20Search%20Tree.md)|13|0| 0.00 %|
 |[Bit Manipulation](./topics/Bit%20Manipulation.md)|31|1| 3.23 %|
 |[Brainteaser](./topics/Brainteaser.md)|3|1|33.33 %|
@@ -37,4 +37,4 @@
 |[Two Pointers](./topics/Two%20Pointers.md)|42|10|23.81 %|
 |[Union Find](./topics/Union%20Find.md)|14|0| 0.00 %|
 |[other](./topics/other.md)|86|0| 0.00 %|
-|Total|800|72|9.00 %|
+|Total|800|73|9.12 %|
