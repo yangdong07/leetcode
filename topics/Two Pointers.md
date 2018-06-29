@@ -19,7 +19,7 @@
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |❤️||[📜](.././solutions/76.%20Minimum%20Window%20Substring.md)|[python](.././python/76.%20Minimum%20Window%20Substring.py)|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) |🧡||[📜](.././solutions/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.md)|[python](.././python/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.py)|
 |86|[Partition List](https://leetcode.com/problems/partition-list) |🧡||||
-|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) |💚||||
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) |💚||[📜](.././solutions/88.%20Merge%20Sorted%20Array.md)|[python](.././python/88.%20Merge%20Sorted%20Array.py)|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome) |💚||||
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) |💚|[💡](https://leetcode.com/articles/linked-list-cycle)|||
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) |🧡|[💡](https://leetcode.com/articles/linked-list-cycle-ii)|||
