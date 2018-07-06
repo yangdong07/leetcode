@@ -2,7 +2,7 @@
 .DS_Store
 
 __pychace__/
-.pytest_cache/
+.pytest_cache/*
 
 .idea/
 .ipynb_checkpoints/

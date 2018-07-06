@@ -30,7 +30,7 @@
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |❤️||[📜](.././solutions/76.%20Minimum%20Window%20Substring.md)|[python](.././python/76.%20Minimum%20Window%20Substring.py)|
 |87|[Scramble String](https://leetcode.com/problems/scramble-string) |❤️||||
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways) |🧡||||
-|93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) |🧡||||
+|93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) |🧡||[📜](.././solutions/93.%20Restore%20IP%20Addresses.md)|[python](.././python/93.%20Restore%20IP%20Addresses.py)|
 |97|[Interleaving String](https://leetcode.com/problems/interleaving-string) |❤️|[💡](https://leetcode.com/articles/interleaving-strings)|||
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences) |❤️||||
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome) |💚||||
