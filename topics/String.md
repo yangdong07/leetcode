@@ -29,7 +29,7 @@
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance) |❤️||[📜](.././solutions/72.%20Edit%20Distance.md)|[python](.././python/72.%20Edit%20Distance.py)|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) |❤️||[📜](.././solutions/76.%20Minimum%20Window%20Substring.md)|[python](.././python/76.%20Minimum%20Window%20Substring.py)|
 |87|[Scramble String](https://leetcode.com/problems/scramble-string) |❤️||||
-|91|[Decode Ways](https://leetcode.com/problems/decode-ways) |🧡||||
+|91|[Decode Ways](https://leetcode.com/problems/decode-ways) |🧡||[📜](.././solutions/91.%20Decode%20Ways.md)|[python](.././python/91.%20Decode%20Ways.py)|
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) |🧡||[📜](.././solutions/93.%20Restore%20IP%20Addresses.md)|[python](.././python/93.%20Restore%20IP%20Addresses.py)|
 |97|[Interleaving String](https://leetcode.com/problems/interleaving-string) |❤️|[💡](https://leetcode.com/articles/interleaving-strings)|||
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences) |❤️||||

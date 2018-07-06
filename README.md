@@ -14,7 +14,7 @@
 |[Depth-first Search](./topics/Depth-first%20Search.md)|75|0| 0.00 %|
 |[Design](./topics/Design.md)|33|0| 0.00 %|
 |[Divide and Conquer](./topics/Divide%20and%20Conquer.md)|14|3|21.43 %|
-|[Dynamic Programming](./topics/Dynamic%20Programming.md)|106|10| 9.43 %|
+|[Dynamic Programming](./topics/Dynamic%20Programming.md)|106|11|10.38 %|
 |[Geometry](./topics/Geometry.md)|1|0| 0.00 %|
 |[Graph](./topics/Graph.md)|16|0| 0.00 %|
 |[Greedy](./topics/Greedy.md)|32|3| 9.38 %|
@@ -30,11 +30,11 @@
 |[Segment Tree](./topics/Segment%20Tree.md)|8|0| 0.00 %|
 |[Sort](./topics/Sort.md)|19|3|15.79 %|
 |[Stack](./topics/Stack.md)|35|4|11.43 %|
-|[String](./topics/String.md)|103|21|20.39 %|
+|[String](./topics/String.md)|103|22|21.36 %|
 |[Topological Sort](./topics/Topological%20Sort.md)|5|0| 0.00 %|
 |[Tree](./topics/Tree.md)|79|0| 0.00 %|
 |[Trie](./topics/Trie.md)|14|0| 0.00 %|
 |[Two Pointers](./topics/Two%20Pointers.md)|42|11|26.19 %|
 |[Union Find](./topics/Union%20Find.md)|14|0| 0.00 %|
 |[other](./topics/other.md)|86|0| 0.00 %|
-|Total|800|79|9.88 %|
+|Total|800|80|10.00 %|

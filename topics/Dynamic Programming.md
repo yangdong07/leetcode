@@ -15,7 +15,7 @@
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance) |❤️||[📜](.././solutions/72.%20Edit%20Distance.md)|[python](.././python/72.%20Edit%20Distance.py)|
 |85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) |❤️||||
 |87|[Scramble String](https://leetcode.com/problems/scramble-string) |❤️||||
-|91|[Decode Ways](https://leetcode.com/problems/decode-ways) |🧡||||
+|91|[Decode Ways](https://leetcode.com/problems/decode-ways) |🧡||[📜](.././solutions/91.%20Decode%20Ways.md)|[python](.././python/91.%20Decode%20Ways.py)|
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii) |🧡||||
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees) |🧡||||
 |97|[Interleaving String](https://leetcode.com/problems/interleaving-string) |❤️|[💡](https://leetcode.com/articles/interleaving-strings)|||
