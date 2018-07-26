@@ -13,7 +13,7 @@
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) |🧡|[💡](https://leetcode.com/articles/minimum-path-sum)|[📜](.././solutions/64.%20Minimum%20Path%20Sum.md)|[python](.././python/64.%20Minimum%20Path%20Sum.py)|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs) |💚|[💡](https://leetcode.com/articles/climbing-stairs)|[📜](.././solutions/70.%20Climbing%20Stairs.md)|[python](.././python/70.%20Climbing%20Stairs.py)|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance) |❤️||[📜](.././solutions/72.%20Edit%20Distance.md)|[python](.././python/72.%20Edit%20Distance.py)|
-|85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) |❤️||||
+|85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) |❤️||[📜](.././solutions/85.%20Maximal%20Rectangle.md)|[python](.././python/85.%20Maximal%20Rectangle.py)|
 |87|[Scramble String](https://leetcode.com/problems/scramble-string) |❤️||||
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways) |🧡||[📜](.././solutions/91.%20Decode%20Ways.md)|[python](.././python/91.%20Decode%20Ways.py)|
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii) |🧡||||

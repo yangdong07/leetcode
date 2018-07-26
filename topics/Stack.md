@@ -7,7 +7,7 @@
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) |❤️|[💡](https://leetcode.com/articles/trapping-rain-water)|[📜](.././solutions/42.%20Trapping%20Rain%20Water.md)|[python](.././python/42.%20Trapping%20Rain%20Water.py)|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path) |🧡||[📜](.././solutions/71.%20Simplify%20Path.md)|[python](.././python/71.%20Simplify%20Path.py)|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) |❤️|[💡](https://leetcode.com/articles/largest-rectangle-histogram)|[📜](.././solutions/84.%20Largest%20Rectangle%20in%20Histogram.md)|[python](.././python/84.%20Largest%20Rectangle%20in%20Histogram.py)|
-|85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) |❤️||||
+|85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) |❤️||[📜](.././solutions/85.%20Maximal%20Rectangle.md)|[python](.././python/85.%20Maximal%20Rectangle.py)|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) |🧡|[💡](https://leetcode.com/articles/binary-tree-inorder-traversal)|||
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) |🧡||||
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) |🧡||||
