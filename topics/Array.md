@@ -41,7 +41,7 @@
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) |❤️|[💡](https://leetcode.com/articles/largest-rectangle-histogram)|[📜](.././solutions/84.%20Largest%20Rectangle%20in%20Histogram.md)|[python](.././python/84.%20Largest%20Rectangle%20in%20Histogram.py)|
 |85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) |❤️||[📜](.././solutions/85.%20Maximal%20Rectangle.md)|[python](.././python/85.%20Maximal%20Rectangle.py)|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) |💚||[📜](.././solutions/88.%20Merge%20Sorted%20Array.md)|[python](.././python/88.%20Merge%20Sorted%20Array.py)|
-|90|[Subsets II](https://leetcode.com/problems/subsets-ii) |🧡||||
+|90|[Subsets II](https://leetcode.com/problems/subsets-ii) |🧡||[📜](.././solutions/90.%20Subsets%20II.md)|[python](.././python/90.%20Subsets%20II.py)|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) |🧡||||
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) |🧡||||
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) |💚|[💡](https://leetcode.com/articles/pascals-triangle)|||

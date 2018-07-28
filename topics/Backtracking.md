@@ -19,7 +19,7 @@
 |78|[Subsets](https://leetcode.com/problems/subsets) |🧡||[📜](.././solutions/78.%20Subsets.md)|[python](.././python/78.%20Subsets.py)|
 |79|[Word Search](https://leetcode.com/problems/word-search) |🧡||[📜](.././solutions/79.%20Word%20Search.md)|[python](.././python/79.%20Word%20Search.py)|
 |89|[Gray Code](https://leetcode.com/problems/gray-code) |🧡||[📜](.././solutions/89.%20Gray%20Code.md)|[python](.././python/89.%20Gray%20Code.py)|
-|90|[Subsets II](https://leetcode.com/problems/subsets-ii) |🧡||||
+|90|[Subsets II](https://leetcode.com/problems/subsets-ii) |🧡||[📜](.././solutions/90.%20Subsets%20II.md)|[python](.././python/90.%20Subsets%20II.py)|
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) |🧡||[📜](.././solutions/93.%20Restore%20IP%20Addresses.md)|[python](.././python/93.%20Restore%20IP%20Addresses.py)|
 |126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii) |❤️||||
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning) |🧡||||
