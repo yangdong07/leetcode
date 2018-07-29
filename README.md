@@ -20,7 +20,7 @@
 |[Greedy](./topics/Greedy.md)|32|3| 9.38 %|
 |[Hash Table](./topics/Hash%20Table.md)|83|8| 9.64 %|
 |[Heap](./topics/Heap.md)|26|1| 3.85 %|
-|[Linked List](./topics/Linked%20List.md)|29|9|31.03 %|
+|[Linked List](./topics/Linked%20List.md)|29|10|34.48 %|
 |[Math](./topics/Math.md)|91|12|13.19 %|
 |[Memoization](./topics/Memoization.md)|1|0| 0.00 %|
 |[Minimax](./topics/Minimax.md)|3|0| 0.00 %|
@@ -37,4 +37,4 @@
 |[Two Pointers](./topics/Two%20Pointers.md)|42|12|28.57 %|
 |[Union Find](./topics/Union%20Find.md)|14|0| 0.00 %|
 |[other](./topics/other.md)|86|0| 0.00 %|
-|Total|800|83|10.38 %|
+|Total|800|84|10.50 %|

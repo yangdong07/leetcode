@@ -13,7 +13,7 @@
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) |🧡||[📜](.././solutions/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.md)|[python](.././python/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.py)|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) |💚|[💡](https://leetcode.com/articles/remove-duplicates-sorted-list)|[📜](.././solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.md)|[python](.././python/83.%20Remove%20Duplicates%20from%20Sorted%20List.py)|
 |86|[Partition List](https://leetcode.com/problems/partition-list) |🧡||[📜](.././solutions/86.%20Partition%20List.md)|[python](.././python/86.%20Partition%20List.py)|
-|92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) |🧡||||
+|92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) |🧡||[📜](.././solutions/92.%20Reverse%20Linked%20List%20II.md)|[python](.././python/92.%20Reverse%20Linked%20List%20II.py)|
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree) |🧡||||
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) |🧡||||
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) |💚|[💡](https://leetcode.com/articles/linked-list-cycle)|||
